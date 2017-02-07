@@ -1,0 +1,736 @@
+{
+  "key": "mnp-6-1-SJK-CRA",
+  "name": "WK 1 SJK @ CRA",
+  "type": "manual",
+  "week": "1",
+  "round": 4,
+  "create_at": 1473720868495,
+  "date": "09/12/2016",
+  "state": "complete",
+  "venue": {
+    "key": "ANC",
+    "name": "Another Castle Arcade Edition",
+    "machines": [
+      "Jackbot",
+      "TSPP",
+      "RFM",
+      "Sopranos",
+      "STTNG",
+      "StarWars",
+      "TFTC",
+      "Ripley's Believe it or Not",
+      "Elvira",
+      "Earthshaker",
+      "PartyZone",
+      "8Ball",
+      "BigGuns",
+      "MM",
+      "POTC",
+      "Ghost",
+      "TAF",
+      "Getaway"
+    ]
+  },
+  "away": {
+    "name": "Soda Jerks",
+    "captains": [
+      {
+        "key": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+        "name": "Bobby Conover"
+      },
+      {
+        "key": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+        "name": "Raymond Davidson"
+      }
+    ],
+    "lineup": [
+      {
+        "key": "924db06e874eee86b9c8620d0c88e5f274710ec3",
+        "name": "Alex Tada",
+        "num_played": 3
+      },
+      {
+        "key": "db83a4ca4473a81dba80c8ba2e373372a9170040",
+        "name": "Ari Golding",
+        "num_played": 3
+      },
+      {
+        "key": "65ff360c0605503d17618e5e55d243080beaead2",
+        "name": "Austin Arlitt",
+        "num_played": 3
+      },
+      {
+        "key": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+        "name": "Bobby Conover",
+        "num_played": 3
+      },
+      {
+        "key": "12c97fbce170d8210570b5f669c1030961f21322",
+        "name": "Danny Rashid",
+        "num_played": 3
+      },
+      {
+        "key": "b6cbebccd6a78e525db0fa54c7e3273752fb120b",
+        "name": "David Latimer",
+        "num_played": 3
+      },
+      {
+        "key": "ff3638d240dd12f06728fc95557574d8e4e6b64b",
+        "name": "Jarrett Gaddy",
+        "num_played": 3
+      },
+      {
+        "key": "231c4e4bb35f8545b18c8a82bebc323ce29e0958",
+        "name": "John McAllister",
+        "num_played": 3
+      },
+      {
+        "key": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+        "name": "Matt Galbraith",
+        "num_played": 3
+      },
+      {
+        "key": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+        "name": "Raymond Davidson",
+        "num_played": 3
+      }
+    ],
+    "key": "SJK",
+    "ready": true,
+    "confirmed": {
+      "by": "Jordan Semrow",
+      "at": 1473738860384
+    }
+  },
+  "home": {
+    "name": "Castle Crashers",
+    "captains": [
+      {
+        "key": "ebbe4907fd14e3d6e23b004742d1890fb7446558",
+        "name": "Jordan Semrow"
+      },
+      {
+        "key": "93e9028036ca469b156f477a6aeb1ec28e5cba98",
+        "name": "Eric Csakany"
+      }
+    ],
+    "lineup": [
+      {
+        "key": "f12cf023ff4fbcba3cd6a33bf4404c83fe66a2a6",
+        "name": "David Griffin",
+        "num_played": 3
+      },
+      {
+        "key": "93e9028036ca469b156f477a6aeb1ec28e5cba98",
+        "name": "Eric Csakany",
+        "num_played": 3
+      },
+      {
+        "key": "05403dd4ad6921bef65678458001b708b6da7dad",
+        "name": "John Robinson",
+        "num_played": 3
+      },
+      {
+        "key": "ebbe4907fd14e3d6e23b004742d1890fb7446558",
+        "name": "Jordan Semrow",
+        "num_played": 3
+      },
+      {
+        "key": "81ab2903a2e8917e2b3f46a8b784241e16686cf4",
+        "name": "Justina Russo",
+        "num_played": 3
+      },
+      {
+        "key": "f30b5ee982c80ef2df8248f7d3627c48e41cc3da",
+        "name": "Kirk Nelson",
+        "num_played": 3
+      },
+      {
+        "key": "7471f2bedf425a1f348ab5914d9feddf5ca5762a",
+        "name": "Lefty Sitaras",
+        "num_played": 3
+      },
+      {
+        "key": "1c94e99493345a3d428d15d461af5fe770c8b602",
+        "name": "Michael Warfield",
+        "num_played": 3
+      },
+      {
+        "key": "92dd2edc2c6416179aefc4aa956de99c6c46eab5",
+        "name": "Todd Larsen",
+        "num_played": 3
+      },
+      {
+        "key": "4bab73c0602e525904b8d3e1e99952cc083bdf49",
+        "name": "William Scott Jordan",
+        "num_played": 3
+      }
+    ],
+    "key": "CRA",
+    "ready": true,
+    "confirmed": {
+      "by": "Bobby Conover",
+      "at": 1473738892510
+    }
+  },
+  "rounds": [
+    {
+      "n": 1,
+      "games": [
+        {
+          "n": 1,
+          "machine": "Jackbot",
+          "player_1": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+          "player_3": "231c4e4bb35f8545b18c8a82bebc323ce29e0958",
+          "player_2": "05403dd4ad6921bef65678458001b708b6da7dad",
+          "player_4": "1c94e99493345a3d428d15d461af5fe770c8b602",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/mnp-6-1-SJK-CRA.1.1.1473741964988",
+              "rot": "0"
+            }
+          ],
+          "score_1": 476384330,
+          "score_2": 2542034880,
+          "score_3": 3387007950,
+          "score_4": 859464180,
+          "points_1": 0.5,
+          "points_2": 1,
+          "points_3": 2.5,
+          "points_4": 1,
+          "score_13": 3863392280,
+          "score_24": 3401499060,
+          "points_13": 3,
+          "points_24": 2,
+          "away_points": 3,
+          "home_points": 2
+        },
+        {
+          "n": 2,
+          "machine": "BigGuns",
+          "player_1": "ff3638d240dd12f06728fc95557574d8e4e6b64b",
+          "player_3": "b6cbebccd6a78e525db0fa54c7e3273752fb120b",
+          "player_2": "7471f2bedf425a1f348ab5914d9feddf5ca5762a",
+          "player_4": "f12cf023ff4fbcba3cd6a33bf4404c83fe66a2a6",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/mnp-6-1-SJK-CRA.1.2.1473741340233",
+              "rot": "0"
+            }
+          ],
+          "score_1": 1131410,
+          "score_2": 426300,
+          "score_3": 323160,
+          "score_4": 294120,
+          "points_1": 2.5,
+          "points_2": 1,
+          "points_3": 1.5,
+          "points_4": 0,
+          "score_13": 1454570,
+          "score_24": 720420,
+          "points_13": 4,
+          "points_24": 1,
+          "away_points": 4,
+          "home_points": 1
+        },
+        {
+          "n": 3,
+          "machine": "Getaway",
+          "player_1": "65ff360c0605503d17618e5e55d243080beaead2",
+          "player_3": "924db06e874eee86b9c8620d0c88e5f274710ec3",
+          "player_2": "92dd2edc2c6416179aefc4aa956de99c6c46eab5",
+          "player_4": "4bab73c0602e525904b8d3e1e99952cc083bdf49",
+          "done": true,
+          "score_1": 11068410,
+          "score_2": 35238690,
+          "score_3": 28513670,
+          "score_4": 11744210,
+          "photo_rotation": 0,
+          "points_1": 0,
+          "points_2": 2.5,
+          "points_3": 1,
+          "points_4": 1.5,
+          "score_13": 39582080,
+          "score_24": 46982900,
+          "points_13": 1,
+          "points_24": 4,
+          "away_points": 1,
+          "home_points": 4
+        },
+        {
+          "n": 4,
+          "machine": "Sopranos",
+          "player_1": "12c97fbce170d8210570b5f669c1030961f21322",
+          "player_3": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+          "player_2": "ebbe4907fd14e3d6e23b004742d1890fb7446558",
+          "player_4": "f30b5ee982c80ef2df8248f7d3627c48e41cc3da",
+          "photos": [
+            {
+              "uploaded_by": "ebbe4907fd14e3d6e23b004742d1890fb7446558",
+              "url": "/pics/mnp-6-1-SJK-CRA.1.4.1473742147450",
+              "rot": "0"
+            },
+            {
+              "uploaded_by": "ebbe4907fd14e3d6e23b004742d1890fb7446558",
+              "url": "/pics/mnp-6-1-SJK-CRA.1.4.1473741152736",
+              "rot": "0"
+            }
+          ],
+          "score_1": 41704660,
+          "score_2": 18859390,
+          "score_3": 13421320,
+          "score_4": 8476980,
+          "done": true,
+          "points_1": 2.5,
+          "points_2": 1,
+          "points_3": 1.5,
+          "points_4": 0,
+          "score_13": 55125980,
+          "score_24": 27336370,
+          "points_13": 4,
+          "points_24": 1,
+          "away_points": 4,
+          "home_points": 1
+        }
+      ],
+      "done": true
+    },
+    {
+      "n": 2,
+      "games": [
+        {
+          "n": 1,
+          "machine": "Elvira",
+          "player_1": "05403dd4ad6921bef65678458001b708b6da7dad",
+          "player_2": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+          "photos": [
+            {
+              "uploaded_by": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+              "url": "/pics/mnp-6-1-SJK-CRA.2.1.1473743839406",
+              "rot": "0"
+            }
+          ],
+          "score_1": 699210,
+          "score_2": 1548200,
+          "done": true,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 699210,
+          "score_24": 1548200,
+          "away_points": 3,
+          "home_points": 0
+        },
+        {
+          "n": 2,
+          "machine": "Earthshaker",
+          "player_1": "1c94e99493345a3d428d15d461af5fe770c8b602",
+          "player_2": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+          "done": true,
+          "score_1": 2309250,
+          "score_2": 4085520,
+          "photo_rotation": 0,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 2309250,
+          "score_24": 4085520,
+          "away_points": 2,
+          "home_points": 1
+        },
+        {
+          "n": 3,
+          "machine": "Ghost",
+          "player_1": "93e9028036ca469b156f477a6aeb1ec28e5cba98",
+          "player_2": "924db06e874eee86b9c8620d0c88e5f274710ec3",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "ebbe4907fd14e3d6e23b004742d1890fb7446558",
+              "url": "/pics/mnp-6-1-SJK-CRA.2.3.1473743977241",
+              "rot": "0"
+            }
+          ],
+          "score_1": 155674400,
+          "score_2": 22501950,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 155674400,
+          "score_24": 22501950,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 4,
+          "machine": "TAF",
+          "player_1": "4bab73c0602e525904b8d3e1e99952cc083bdf49",
+          "player_2": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+          "done": true,
+          "score_1": 65723610,
+          "score_2": 157368080,
+          "photo_rotation": 0,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 65723610,
+          "score_24": 157368080,
+          "away_points": 3,
+          "home_points": 0
+        },
+        {
+          "n": 5,
+          "machine": "POTC",
+          "player_1": "f12cf023ff4fbcba3cd6a33bf4404c83fe66a2a6",
+          "player_2": "231c4e4bb35f8545b18c8a82bebc323ce29e0958",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/mnp-6-1-SJK-CRA.2.5.1473743964648",
+              "rot": "0"
+            }
+          ],
+          "score_1": 2376420,
+          "score_2": 5884400,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 2376420,
+          "score_24": 5884400,
+          "away_points": 3,
+          "home_points": 0
+        },
+        {
+          "n": 6,
+          "machine": "MM",
+          "player_1": "f30b5ee982c80ef2df8248f7d3627c48e41cc3da",
+          "player_2": "12c97fbce170d8210570b5f669c1030961f21322",
+          "done": true,
+          "score_1": 8650610,
+          "score_2": 22648090,
+          "photo_rotation": 0,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 8650610,
+          "score_24": 22648090,
+          "away_points": 3,
+          "home_points": 0
+        },
+        {
+          "n": 7,
+          "machine": "8Ball",
+          "player_1": "81ab2903a2e8917e2b3f46a8b784241e16686cf4",
+          "player_2": "db83a4ca4473a81dba80c8ba2e373372a9170040",
+          "done": true,
+          "score_1": 36880,
+          "score_2": 138400,
+          "photo_rotation": 0,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 36880,
+          "score_24": 138400,
+          "away_points": 3,
+          "home_points": 0
+        }
+      ],
+      "done": true
+    },
+    {
+      "n": 3,
+      "games": [
+        {
+          "n": 1,
+          "machine": "Jackbot",
+          "player_1": "231c4e4bb35f8545b18c8a82bebc323ce29e0958",
+          "player_2": "1c94e99493345a3d428d15d461af5fe770c8b602",
+          "score_1": 301133670,
+          "score_2": 1342084260,
+          "photo_rotation": 0,
+          "done": true,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 301133670,
+          "score_24": 1342084260,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 2,
+          "machine": "TSPP",
+          "player_1": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+          "player_2": "81ab2903a2e8917e2b3f46a8b784241e16686cf4",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/mnp-6-1-SJK-CRA.3.2.1473746825066",
+              "rot": "0"
+            }
+          ],
+          "score_1": 20464970,
+          "score_2": 5340080,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 20464970,
+          "score_24": 5340080,
+          "away_points": 3,
+          "home_points": 0
+        },
+        {
+          "n": 3,
+          "machine": "8Ball",
+          "player_1": "db83a4ca4473a81dba80c8ba2e373372a9170040",
+          "player_2": "92dd2edc2c6416179aefc4aa956de99c6c46eab5",
+          "done": true,
+          "score_1": 99590,
+          "score_2": 89290,
+          "photo_rotation": 0,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 99590,
+          "score_24": 89290,
+          "away_points": 2,
+          "home_points": 1,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/mnp-6-1-SJK-CRA.3.3.1473746535461",
+              "rot": "0"
+            },
+            {
+              "uploaded_by": "ebbe4907fd14e3d6e23b004742d1890fb7446558",
+              "url": "/pics/mnp-6-1-SJK-CRA.3.3.1473746505645",
+              "rot": "0"
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "machine": "BigGuns",
+          "player_1": "ff3638d240dd12f06728fc95557574d8e4e6b64b",
+          "player_2": "7471f2bedf425a1f348ab5914d9feddf5ca5762a",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/mnp-6-1-SJK-CRA.3.4.1473746441078",
+              "rot": "0"
+            }
+          ],
+          "score_1": 389130,
+          "score_2": 2233170,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 389130,
+          "score_24": 2233170,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 5,
+          "machine": "PartyZone",
+          "player_1": "b6cbebccd6a78e525db0fa54c7e3273752fb120b",
+          "player_2": "93e9028036ca469b156f477a6aeb1ec28e5cba98",
+          "done": true,
+          "score_1": 4713890,
+          "score_2": 2954700,
+          "photo_rotation": 0,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 4713890,
+          "score_24": 2954700,
+          "away_points": 2,
+          "home_points": 1
+        },
+        {
+          "n": 6,
+          "machine": "MM",
+          "player_1": "65ff360c0605503d17618e5e55d243080beaead2",
+          "player_2": "f30b5ee982c80ef2df8248f7d3627c48e41cc3da",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "65ff360c0605503d17618e5e55d243080beaead2",
+              "url": "/pics/mnp-6-1-SJK-CRA.3.6.1473746219840",
+              "rot": "0"
+            }
+          ],
+          "score_1": 4429770,
+          "score_2": 5210380,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 4429770,
+          "score_24": 5210380,
+          "away_points": 1,
+          "home_points": 2
+        },
+        {
+          "n": 7,
+          "machine": "Sopranos",
+          "player_1": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+          "player_2": "ebbe4907fd14e3d6e23b004742d1890fb7446558",
+          "done": true,
+          "score_1": 37111500,
+          "score_2": 15749720,
+          "photo_rotation": 0,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 37111500,
+          "score_24": 15749720,
+          "away_points": 3,
+          "home_points": 0
+        }
+      ],
+      "done": true
+    },
+    {
+      "n": 4,
+      "games": [
+        {
+          "n": 1,
+          "machine": "TFTC",
+          "player_1": "ebbe4907fd14e3d6e23b004742d1890fb7446558",
+          "player_3": "f12cf023ff4fbcba3cd6a33bf4404c83fe66a2a6",
+          "player_2": "b6cbebccd6a78e525db0fa54c7e3273752fb120b",
+          "player_4": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "ebbe4907fd14e3d6e23b004742d1890fb7446558",
+              "url": "/pics/mnp-6-1-SJK-CRA.4.1.1473749358935",
+              "rot": "0"
+            }
+          ],
+          "score_1": 229145530,
+          "score_2": 57729890,
+          "score_3": 18760150,
+          "score_4": 251436820,
+          "points_1": 1,
+          "points_2": 1.5,
+          "points_3": 0,
+          "points_4": 2.5,
+          "score_13": 247905680,
+          "score_24": 309166710,
+          "points_13": 1,
+          "points_24": 4,
+          "away_points": 4,
+          "home_points": 1
+        },
+        {
+          "n": 2,
+          "machine": "RFM",
+          "player_1": "81ab2903a2e8917e2b3f46a8b784241e16686cf4",
+          "player_3": "7471f2bedf425a1f348ab5914d9feddf5ca5762a",
+          "player_2": "ff3638d240dd12f06728fc95557574d8e4e6b64b",
+          "player_4": "65ff360c0605503d17618e5e55d243080beaead2",
+          "photos": [
+            {
+              "uploaded_by": "65ff360c0605503d17618e5e55d243080beaead2",
+              "url": "/pics/mnp-6-1-SJK-CRA.4.2.1473748917657",
+              "rot": "0"
+            }
+          ],
+          "score_1": 41946360,
+          "score_2": 26077750,
+          "score_3": 28615370,
+          "score_4": 51710430,
+          "done": true,
+          "points_1": 1,
+          "points_2": 0.5,
+          "points_3": 1,
+          "points_4": 2.5,
+          "score_13": 70561730,
+          "score_24": 77788180,
+          "points_13": 2,
+          "points_24": 3,
+          "away_points": 3,
+          "home_points": 2
+        },
+        {
+          "n": 3,
+          "machine": "8Ball",
+          "player_1": "05403dd4ad6921bef65678458001b708b6da7dad",
+          "player_3": "92dd2edc2c6416179aefc4aa956de99c6c46eab5",
+          "player_2": "db83a4ca4473a81dba80c8ba2e373372a9170040",
+          "player_4": "924db06e874eee86b9c8620d0c88e5f274710ec3",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/mnp-6-1-SJK-CRA.4.3.1473748978806",
+              "rot": "0"
+            }
+          ],
+          "score_1": 112940,
+          "score_2": 208710,
+          "score_3": 241780,
+          "score_4": 134100,
+          "points_1": 0.5,
+          "points_2": 1,
+          "points_3": 2.5,
+          "points_4": 1,
+          "score_13": 354720,
+          "score_24": 342810,
+          "points_13": 3,
+          "points_24": 2,
+          "away_points": 2,
+          "home_points": 3
+        },
+        {
+          "n": 4,
+          "machine": "Sopranos",
+          "player_1": "4bab73c0602e525904b8d3e1e99952cc083bdf49",
+          "player_3": "93e9028036ca469b156f477a6aeb1ec28e5cba98",
+          "player_2": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+          "player_4": "12c97fbce170d8210570b5f669c1030961f21322",
+          "done": true,
+          "score_1": 10883740,
+          "score_2": 49417950,
+          "score_3": 38502730,
+          "score_4": 9163540,
+          "photo_rotation": 0,
+          "points_1": 1,
+          "points_2": 2.5,
+          "points_3": 1,
+          "points_4": 0.5,
+          "score_13": 49386470,
+          "score_24": 58581490,
+          "points_13": 2,
+          "points_24": 3,
+          "away_points": 3,
+          "home_points": 2
+        }
+      ],
+      "done": true
+    }
+  ],
+  "players": []
+}

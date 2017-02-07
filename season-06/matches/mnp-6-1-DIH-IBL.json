@@ -1,0 +1,826 @@
+{
+  "key": "mnp-6-1-DIH-IBL",
+  "name": "WK 1 DIH @ IBL",
+  "type": "manual",
+  "week": "1",
+  "round": 4,
+  "create_at": 1473720868503,
+  "date": "09/12/2016",
+  "state": "complete",
+  "venue": {
+    "key": "BUL",
+    "name": "Iron Bull",
+    "machines": [
+      "Embryon",
+      "Harlem",
+      "HighSpeed",
+      "Hurricane",
+      "Indy",
+      "Metallica",
+      "Scorpion",
+      "Spiderman",
+      "Supersonic",
+      "T3",
+      "WCS",
+      "Skindy"
+    ]
+  },
+  "away": {
+    "name": "Drain in Hell",
+    "captains": [
+      {
+        "key": "c86613dd5dbd06945364007d009f5a01162d17d4",
+        "name": "Daniel Reddin"
+      },
+      {
+        "key": "e570d96c69ef780de93761264c82aec06b4929ec",
+        "name": "Lauren Aiello"
+      }
+    ],
+    "lineup": [
+      {
+        "key": "6a519bee210d3348f57b99146a7863f75e87a854",
+        "name": "Ari Stinson",
+        "num_played": 3
+      },
+      {
+        "key": "d5230ad5c3d4016f9b1696f41c00e3887c3d6d7a",
+        "name": "Chris Harrington",
+        "num_played": 3
+      },
+      {
+        "key": "c86613dd5dbd06945364007d009f5a01162d17d4",
+        "name": "Daniel Reddin",
+        "num_played": 3
+      },
+      {
+        "key": "1284ab39128365105708b79f984b5d9cecdcf359",
+        "name": "Honi Harrison",
+        "num_played": 3
+      },
+      {
+        "key": "77cad17e0c78ed82233741a7c04eabe56edc487c",
+        "name": "Jay Sweeney",
+        "num_played": 3
+      },
+      {
+        "key": "ac52dfd060971f68df6767c5944942b60f8aae4b",
+        "name": "Jay Waymire",
+        "num_played": 3
+      },
+      {
+        "key": "e570d96c69ef780de93761264c82aec06b4929ec",
+        "name": "Lauren Aiello",
+        "num_played": 3
+      },
+      {
+        "key": "d35dde89a3e3be135378e6fad33b3cd3746c1861",
+        "name": "Matthew Levi Tate",
+        "num_played": 3
+      },
+      {
+        "key": "9904d3d1201be4703a2542d2928feaf69aee03df",
+        "name": "Robin Moore",
+        "num_played": 3
+      },
+      {
+        "key": "2f3c058787195581ea1790c949542da14f2a34ca",
+        "name": "Umboon Moore",
+        "num_played": 3
+      }
+    ],
+    "key": "DIH",
+    "ready": true,
+    "confirmed": {
+      "by": "Benton Seybold",
+      "at": 1473738796809
+    }
+  },
+  "home": {
+    "name": "Iron Bullies",
+    "captains": [
+      {
+        "key": "7d87b8c894b33bf5c99bb540ea4d9c4e85fe9b3c",
+        "name": "Benton Seybold"
+      },
+      {
+        "key": "c1f743b5d73716ecd7980e7fddea19920d6241ca",
+        "name": "Jared Gamble"
+      }
+    ],
+    "lineup": [
+      {
+        "key": "7d87b8c894b33bf5c99bb540ea4d9c4e85fe9b3c",
+        "name": "Benton Seybold",
+        "num_played": 3
+      },
+      {
+        "key": "79de1ac0010e6c18ee03fc534269648a66cad1ff",
+        "name": "Chris Bronson",
+        "num_played": 3
+      },
+      {
+        "key": "7ee8412002913a652b06f39c31474dcf2c18cdf6",
+        "name": "Clayton Stetz",
+        "num_played": 3
+      },
+      {
+        "key": "a6807b4964b8c0f4f84a2478c9e17de8e84c211c",
+        "name": "Isaac Harney",
+        "num_played": 3
+      },
+      {
+        "key": "d70fbbb557ad7f2df2c1547458f6618fb25818fc",
+        "name": "Jared Baldridge",
+        "num_played": 3
+      },
+      {
+        "key": "c1f743b5d73716ecd7980e7fddea19920d6241ca",
+        "name": "Jared Gamble",
+        "num_played": 3
+      },
+      {
+        "key": "886390cf14b3e1f8782a2a33b2956e3d57ac985f",
+        "name": "Jon Salzman",
+        "num_played": 3
+      },
+      {
+        "key": "8293d43fe012b5c18d8a351c6a4470178560ed03",
+        "name": "Keenan Goodall",
+        "num_played": 3
+      },
+      {
+        "key": "caa41abb4776b6df1a22838de88b288d86591b3f",
+        "name": "Steph Hanlon",
+        "num_played": 3
+      },
+      {
+        "key": "4825bdb57d57d154d951e8cca20fabf98a43c565",
+        "name": "Tim Kitchen",
+        "num_played": 3
+      }
+    ],
+    "key": "IBL",
+    "ready": true,
+    "confirmed": {
+      "by": "Daniel Reddin",
+      "at": 1473738790786
+    }
+  },
+  "rounds": [
+    {
+      "n": 1,
+      "games": [
+        {
+          "n": 1,
+          "machine": "Spiderman",
+          "player_1": "e570d96c69ef780de93761264c82aec06b4929ec",
+          "player_3": "d35dde89a3e3be135378e6fad33b3cd3746c1861",
+          "player_2": "886390cf14b3e1f8782a2a33b2956e3d57ac985f",
+          "player_4": "caa41abb4776b6df1a22838de88b288d86591b3f",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "d35dde89a3e3be135378e6fad33b3cd3746c1861",
+              "url": "/pics/mnp-6-1-DIH-IBL.1.1.1473740990083",
+              "rot": "0"
+            }
+          ],
+          "score_1": 13571240,
+          "score_2": 32754050,
+          "score_3": 6323800,
+          "score_4": 41916350,
+          "points_1": 0,
+          "points_2": 2.5,
+          "points_3": 0,
+          "points_4": 2.5,
+          "score_13": 19895040,
+          "score_24": 74670400,
+          "points_13": 0,
+          "points_24": 5,
+          "away_points": 0,
+          "home_points": 5
+        },
+        {
+          "n": 2,
+          "machine": "Indy",
+          "player_1": "6a519bee210d3348f57b99146a7863f75e87a854",
+          "player_3": "77cad17e0c78ed82233741a7c04eabe56edc487c",
+          "player_2": "a6807b4964b8c0f4f84a2478c9e17de8e84c211c",
+          "player_4": "c1f743b5d73716ecd7980e7fddea19920d6241ca",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "a6807b4964b8c0f4f84a2478c9e17de8e84c211c",
+              "url": "/pics/mnp-6-1-DIH-IBL.1.2.1473741088585",
+              "rot": "0"
+            }
+          ],
+          "score_1": 2760660,
+          "score_2": 41100130,
+          "score_3": 22288820,
+          "score_4": 39946920,
+          "points_1": 0,
+          "points_2": 2.5,
+          "points_3": 0,
+          "points_4": 2.5,
+          "score_13": 25049480,
+          "score_24": 81047050,
+          "points_13": 0,
+          "points_24": 5,
+          "away_points": 0,
+          "home_points": 5
+        },
+        {
+          "n": 3,
+          "machine": "Hurricane",
+          "player_1": "9904d3d1201be4703a2542d2928feaf69aee03df",
+          "player_3": "2f3c058787195581ea1790c949542da14f2a34ca",
+          "player_2": "7ee8412002913a652b06f39c31474dcf2c18cdf6",
+          "player_4": "d70fbbb557ad7f2df2c1547458f6618fb25818fc",
+          "photos": [
+            {
+              "uploaded_by": "7d87b8c894b33bf5c99bb540ea4d9c4e85fe9b3c",
+              "url": "/pics/mnp-6-1-DIH-IBL.1.3.1473740739191",
+              "rot": "0"
+            }
+          ],
+          "score_1": 2594850,
+          "score_2": 4432150,
+          "score_3": 8256830,
+          "score_4": 4183570,
+          "done": true,
+          "points_1": 0.5,
+          "points_2": 1,
+          "points_3": 2.5,
+          "points_4": 1,
+          "score_13": 10851680,
+          "score_24": 8615720,
+          "points_13": 3,
+          "points_24": 2,
+          "away_points": 3,
+          "home_points": 2,
+          "photo_rotation": 0
+        },
+        {
+          "n": 4,
+          "machine": "T3",
+          "player_1": "1284ab39128365105708b79f984b5d9cecdcf359",
+          "player_3": "ac52dfd060971f68df6767c5944942b60f8aae4b",
+          "player_2": "4825bdb57d57d154d951e8cca20fabf98a43c565",
+          "player_4": "79de1ac0010e6c18ee03fc534269648a66cad1ff",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "1284ab39128365105708b79f984b5d9cecdcf359",
+              "url": "/pics/mnp-6-1-DIH-IBL.1.4.1473741234422",
+              "rot": "0"
+            },
+            {
+              "uploaded_by": "1284ab39128365105708b79f984b5d9cecdcf359",
+              "url": "/pics/mnp-6-1-DIH-IBL.1.4.1473741232957",
+              "rot": "0"
+            }
+          ],
+          "score_1": 10906540,
+          "score_2": 6592450,
+          "score_3": 35071980,
+          "score_4": 11657570,
+          "photo_rotation": 0,
+          "points_1": 1.5,
+          "points_2": 0,
+          "points_3": 2.5,
+          "points_4": 1,
+          "score_13": 45978520,
+          "score_24": 18250020,
+          "points_13": 4,
+          "points_24": 1,
+          "away_points": 4,
+          "home_points": 1
+        }
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Benton Seybold",
+        "at": 1473741493776
+      },
+      "left_confirmed": {
+        "by": "Daniel Reddin",
+        "at": 1473741498800
+      }
+    },
+    {
+      "n": 2,
+      "games": [
+        {
+          "n": 1,
+          "machine": "Scorpion",
+          "player_1": "8293d43fe012b5c18d8a351c6a4470178560ed03",
+          "player_2": "e570d96c69ef780de93761264c82aec06b4929ec",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "c86613dd5dbd06945364007d009f5a01162d17d4",
+              "url": "/pics/mnp-6-1-DIH-IBL.2.1.1473743910076",
+              "rot": "0"
+            }
+          ],
+          "score_1": 186030,
+          "score_2": 92010,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 186030,
+          "score_24": 92010,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 2,
+          "machine": "Supersonic",
+          "player_1": "7ee8412002913a652b06f39c31474dcf2c18cdf6",
+          "player_2": "ac52dfd060971f68df6767c5944942b60f8aae4b",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "7d87b8c894b33bf5c99bb540ea4d9c4e85fe9b3c",
+              "url": "/pics/mnp-6-1-DIH-IBL.2.2.1473743621644",
+              "rot": "0"
+            }
+          ],
+          "score_1": 83740,
+          "score_2": 100320,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 83740,
+          "score_24": 100320,
+          "away_points": 2,
+          "home_points": 1
+        },
+        {
+          "n": 3,
+          "machine": "Spiderman",
+          "player_1": "4825bdb57d57d154d951e8cca20fabf98a43c565",
+          "player_2": "c86613dd5dbd06945364007d009f5a01162d17d4",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "c86613dd5dbd06945364007d009f5a01162d17d4",
+              "url": "/pics/mnp-6-1-DIH-IBL.2.3.1473742985871",
+              "rot": "0"
+            }
+          ],
+          "score_1": 2567890,
+          "score_2": 51929950,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 2567890,
+          "score_24": 51929950,
+          "away_points": 3,
+          "home_points": 0,
+          "photo_rotation": 0
+        },
+        {
+          "n": 4,
+          "machine": "Harlem",
+          "player_1": "79de1ac0010e6c18ee03fc534269648a66cad1ff",
+          "player_2": "9904d3d1201be4703a2542d2928feaf69aee03df",
+          "done": true,
+          "score_1": 239510,
+          "score_2": 185510,
+          "photo_rotation": 0,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 239510,
+          "score_24": 185510,
+          "away_points": 1,
+          "home_points": 2,
+          "photos": [
+            {
+              "uploaded_by": "9904d3d1201be4703a2542d2928feaf69aee03df",
+              "url": "/pics/mnp-6-1-DIH-IBL.2.4.1473743297046",
+              "rot": "0"
+            },
+            {
+              "uploaded_by": "79de1ac0010e6c18ee03fc534269648a66cad1ff",
+              "url": "/pics/mnp-6-1-DIH-IBL.2.4.1473743290815",
+              "rot": "0"
+            }
+          ]
+        },
+        {
+          "n": 5,
+          "machine": "Indy",
+          "player_1": "886390cf14b3e1f8782a2a33b2956e3d57ac985f",
+          "player_2": "d35dde89a3e3be135378e6fad33b3cd3746c1861",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "d35dde89a3e3be135378e6fad33b3cd3746c1861",
+              "url": "/pics/mnp-6-1-DIH-IBL.2.5.1473742963426",
+              "rot": "0"
+            }
+          ],
+          "score_1": 38185850,
+          "score_2": 6382310,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 38185850,
+          "score_24": 6382310,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 6,
+          "machine": "T3",
+          "player_1": "caa41abb4776b6df1a22838de88b288d86591b3f",
+          "player_2": "d5230ad5c3d4016f9b1696f41c00e3887c3d6d7a",
+          "done": true,
+          "score_1": 12233090,
+          "score_2": 11710110,
+          "photo_rotation": 0,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 12233090,
+          "score_24": 11710110,
+          "away_points": 1,
+          "home_points": 2
+        },
+        {
+          "n": 7,
+          "machine": "WCS",
+          "player_1": "7d87b8c894b33bf5c99bb540ea4d9c4e85fe9b3c",
+          "player_2": "6a519bee210d3348f57b99146a7863f75e87a854",
+          "photos": [
+            {
+              "uploaded_by": "7d87b8c894b33bf5c99bb540ea4d9c4e85fe9b3c",
+              "url": "/pics/mnp-6-1-DIH-IBL.2.7.1473742419376",
+              "rot": "90"
+            }
+          ],
+          "score_1": 80506550,
+          "score_2": 139446660,
+          "done": true,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 80506550,
+          "score_24": 139446660,
+          "away_points": 2,
+          "home_points": 1
+        }
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Daniel Reddin",
+        "at": 1473743929051
+      },
+      "left_confirmed": {
+        "by": "Benton Seybold",
+        "at": 1473743937887
+      }
+    },
+    {
+      "n": 3,
+      "games": [
+        {
+          "n": 1,
+          "machine": "Hurricane",
+          "player_1": "1284ab39128365105708b79f984b5d9cecdcf359",
+          "player_2": "caa41abb4776b6df1a22838de88b288d86591b3f",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "1284ab39128365105708b79f984b5d9cecdcf359",
+              "url": "/pics/mnp-6-1-DIH-IBL.3.1.1473745248324",
+              "rot": "0"
+            }
+          ],
+          "score_1": 6475710,
+          "score_2": 1279290,
+          "photo_rotation": 0,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 6475710,
+          "score_24": 1279290,
+          "away_points": 3,
+          "home_points": 0
+        },
+        {
+          "n": 2,
+          "machine": "HighSpeed",
+          "player_1": "2f3c058787195581ea1790c949542da14f2a34ca",
+          "player_2": "c1f743b5d73716ecd7980e7fddea19920d6241ca",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "9904d3d1201be4703a2542d2928feaf69aee03df",
+              "url": "/pics/mnp-6-1-DIH-IBL.3.2.1473745645648",
+              "rot": "0"
+            }
+          ],
+          "score_1": 530130,
+          "score_2": 1866180,
+          "photo_rotation": 0,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 530130,
+          "score_24": 1866180,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 3,
+          "machine": "WCS",
+          "player_1": "d5230ad5c3d4016f9b1696f41c00e3887c3d6d7a",
+          "player_2": "a6807b4964b8c0f4f84a2478c9e17de8e84c211c",
+          "photos": [
+            {
+              "uploaded_by": "a6807b4964b8c0f4f84a2478c9e17de8e84c211c",
+              "url": "/pics/mnp-6-1-DIH-IBL.3.3.1473745139771",
+              "rot": "0"
+            }
+          ],
+          "score_1": 128266320,
+          "score_2": 117480430,
+          "done": true,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 128266320,
+          "score_24": 117480430,
+          "away_points": 2,
+          "home_points": 1,
+          "photo_rotation": 0
+        },
+        {
+          "n": 4,
+          "machine": "Spiderman",
+          "player_1": "c86613dd5dbd06945364007d009f5a01162d17d4",
+          "player_2": "886390cf14b3e1f8782a2a33b2956e3d57ac985f",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "c86613dd5dbd06945364007d009f5a01162d17d4",
+              "url": "/pics/mnp-6-1-DIH-IBL.3.4.1473745555702",
+              "rot": "0"
+            }
+          ],
+          "score_1": 6071700,
+          "score_2": 33060960,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 6071700,
+          "score_24": 33060960,
+          "away_points": 0,
+          "home_points": 3,
+          "photo_rotation": 0
+        },
+        {
+          "n": 5,
+          "machine": "T3",
+          "player_1": "77cad17e0c78ed82233741a7c04eabe56edc487c",
+          "player_2": "7d87b8c894b33bf5c99bb540ea4d9c4e85fe9b3c",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "7d87b8c894b33bf5c99bb540ea4d9c4e85fe9b3c",
+              "url": "/pics/mnp-6-1-DIH-IBL.3.5.1473745883011",
+              "rot": "0"
+            }
+          ],
+          "score_1": 9776470,
+          "score_2": 73387440,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 9776470,
+          "score_24": 73387440,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 6,
+          "machine": "Embryon",
+          "player_1": "d35dde89a3e3be135378e6fad33b3cd3746c1861",
+          "player_2": "8293d43fe012b5c18d8a351c6a4470178560ed03",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "d35dde89a3e3be135378e6fad33b3cd3746c1861",
+              "url": "/pics/mnp-6-1-DIH-IBL.3.6.1473745503328",
+              "rot": "0"
+            }
+          ],
+          "score_1": 156660,
+          "score_2": 580580,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 156660,
+          "score_24": 580580,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 7,
+          "machine": "Supersonic",
+          "player_1": "9904d3d1201be4703a2542d2928feaf69aee03df",
+          "player_2": "d70fbbb557ad7f2df2c1547458f6618fb25818fc",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "9904d3d1201be4703a2542d2928feaf69aee03df",
+              "url": "/pics/mnp-6-1-DIH-IBL.3.7.1473745575691",
+              "rot": "0"
+            }
+          ],
+          "score_1": 187090,
+          "score_2": 606680,
+          "photo_rotation": 0,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 187090,
+          "score_24": 606680,
+          "away_points": 0,
+          "home_points": 3
+        }
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Benton Seybold",
+        "at": 1473745966095
+      },
+      "left_confirmed": {
+        "by": "Daniel Reddin",
+        "at": 1473745969040
+      }
+    },
+    {
+      "n": 4,
+      "games": [
+        {
+          "n": 1,
+          "machine": "Harlem",
+          "player_1": "c1f743b5d73716ecd7980e7fddea19920d6241ca",
+          "player_3": "d70fbbb557ad7f2df2c1547458f6618fb25818fc",
+          "player_2": "c86613dd5dbd06945364007d009f5a01162d17d4",
+          "player_4": "77cad17e0c78ed82233741a7c04eabe56edc487c",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "d70fbbb557ad7f2df2c1547458f6618fb25818fc",
+              "url": "/pics/mnp-6-1-DIH-IBL.4.1.1473747997017",
+              "rot": "0"
+            }
+          ],
+          "score_1": 106450,
+          "score_2": 278570,
+          "score_3": 84930,
+          "score_4": 119940,
+          "points_1": 0,
+          "points_2": 2.5,
+          "points_3": 0,
+          "points_4": 2.5,
+          "score_13": 191380,
+          "score_24": 398510,
+          "points_13": 0,
+          "points_24": 5,
+          "away_points": 5,
+          "home_points": 0
+        },
+        {
+          "n": 2,
+          "machine": "Supersonic",
+          "player_1": "7ee8412002913a652b06f39c31474dcf2c18cdf6",
+          "player_3": "8293d43fe012b5c18d8a351c6a4470178560ed03",
+          "player_2": "e570d96c69ef780de93761264c82aec06b4929ec",
+          "player_4": "ac52dfd060971f68df6767c5944942b60f8aae4b",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "7ee8412002913a652b06f39c31474dcf2c18cdf6",
+              "url": "/pics/mnp-6-1-DIH-IBL.4.2.1473748290788",
+              "rot": "0"
+            }
+          ],
+          "score_1": 360990,
+          "score_2": 35830,
+          "score_3": 281170,
+          "score_4": 57930,
+          "points_1": 2.5,
+          "points_2": 0,
+          "points_3": 2.5,
+          "points_4": 0,
+          "score_13": 642160,
+          "score_24": 93760,
+          "points_13": 5,
+          "points_24": 0,
+          "away_points": 0,
+          "home_points": 5,
+          "photo_rotation": 0
+        },
+        {
+          "n": 3,
+          "machine": "Indy",
+          "player_1": "4825bdb57d57d154d951e8cca20fabf98a43c565",
+          "player_3": "7d87b8c894b33bf5c99bb540ea4d9c4e85fe9b3c",
+          "player_2": "2f3c058787195581ea1790c949542da14f2a34ca",
+          "player_4": "6a519bee210d3348f57b99146a7863f75e87a854",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "7d87b8c894b33bf5c99bb540ea4d9c4e85fe9b3c",
+              "url": "/pics/mnp-6-1-DIH-IBL.4.3.1473748522201",
+              "rot": "90"
+            }
+          ],
+          "score_1": 2333900,
+          "score_2": 33567420,
+          "score_3": 56168770,
+          "score_4": 1,
+          "photo_rotation": 0,
+          "points_1": 1.5,
+          "points_2": 1,
+          "points_3": 2.5,
+          "points_4": 0,
+          "score_13": 58502670,
+          "score_24": 33567421,
+          "points_13": 4,
+          "points_24": 1,
+          "away_points": 1,
+          "home_points": 4
+        },
+        {
+          "n": 4,
+          "machine": "WCS",
+          "player_1": "79de1ac0010e6c18ee03fc534269648a66cad1ff",
+          "player_3": "a6807b4964b8c0f4f84a2478c9e17de8e84c211c",
+          "player_2": "d5230ad5c3d4016f9b1696f41c00e3887c3d6d7a",
+          "player_4": "1284ab39128365105708b79f984b5d9cecdcf359",
+          "photos": [
+            {
+              "uploaded_by": "1284ab39128365105708b79f984b5d9cecdcf359",
+              "url": "/pics/mnp-6-1-DIH-IBL.4.4.1473748109573",
+              "rot": "0"
+            },
+            {
+              "uploaded_by": "a6807b4964b8c0f4f84a2478c9e17de8e84c211c",
+              "url": "/pics/mnp-6-1-DIH-IBL.4.4.1473747964426",
+              "rot": "0"
+            }
+          ],
+          "score_1": 398925410,
+          "score_2": 84312020,
+          "score_3": 141023680,
+          "score_4": 274620470,
+          "done": true,
+          "points_1": 2.5,
+          "points_2": 0,
+          "points_3": 1.5,
+          "points_4": 1,
+          "score_13": 539949090,
+          "score_24": 358932490,
+          "points_13": 4,
+          "points_24": 1,
+          "away_points": 1,
+          "home_points": 4,
+          "photo_rotation": 0
+        }
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Daniel Reddin",
+        "at": 1473748761088
+      },
+      "left_confirmed": {
+        "by": "Benton Seybold",
+        "at": 1473748842151
+      }
+    }
+  ],
+  "players": []
+}
