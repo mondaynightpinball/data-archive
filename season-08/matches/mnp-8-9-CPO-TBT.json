@@ -12,22 +12,22 @@
     "name": "Four B's",
     "machines": [
       "Gorgar",
-      "AFM",
-      "8 ball deluxe ",
-      "Shadow",
-      "TruckStop",
-      "GLizard",
-      "Scorpion",
       "TZ",
-      "Spiderman",
-      "Stern Wars",
+      "Scorpion",
+      "T2",
+      "GLizard",
+      "SternWars",
+      "TruckStop",
+      "EBD",
       "NR",
       "SouthPark",
-      "Metallica",
+      "Shadow",
+      "Skindy",
+      "AFM",
       "AustinPowers",
       "SM",
-      "Skindy",
-      "T2"
+      "Spiderman",
+      "Metallica"
     ]
   },
   "away": {
@@ -221,7 +221,7 @@
         },
         {
           "n": 2,
-          "machine": "Stern Wars",
+          "machine": "SternWars",
           "player_1": "4726eeda5efca087ce5a13055efea8100f1946f6",
           "player_3": "b21dbd54ced47812d700be1ed6d1eb2537416b1b",
           "player_2": "f6af4bc664f0ed90f8cf0fe337403954fa2d6b5f",
@@ -254,7 +254,7 @@
         },
         {
           "n": 3,
-          "machine": "8 ball deluxe ",
+          "machine": "EBD",
           "player_1": "06c3b1534417352d0bf7dc8495788bf46afa4588",
           "player_3": "a176d82eadb6782af835df7dc74beb3c6caab186",
           "player_2": "de49fd06aa879be50e38999ee4defdf0f165917f",
@@ -319,22 +319,14 @@
           "home_points": 3
         }
       ],
-      "done": true,
-      "left_confirmed": {
-        "by": "Anthony Welters",
-        "at": 1510033591415
-      },
-      "right_confirmed": {
-        "by": "Blake Mitchell",
-        "at": 1510033593586
-      }
+      "done": true
     },
     {
       "n": 2,
       "games": [
         {
           "n": 1,
-          "machine": "8 ball deluxe ",
+          "machine": "EBD",
           "player_1": "6ab3e5673aacd468e36d271d9b36905c040335c1",
           "player_2": "95d950002e5663f6f558dd5288f6e02e82349a84",
           "done": true,
@@ -395,7 +387,7 @@
         },
         {
           "n": 4,
-          "machine": "Stern Wars",
+          "machine": "SternWars",
           "player_1": "f6af4bc664f0ed90f8cf0fe337403954fa2d6b5f",
           "player_2": "211c9dcd07ee29f2532d6f8647a7a1f8fab867c2",
           "done": true,
@@ -502,15 +494,7 @@
           "home_points": 2
         }
       ],
-      "done": true,
-      "left_confirmed": {
-        "by": "Blake Mitchell",
-        "at": 1510035660080
-      },
-      "right_confirmed": {
-        "by": "Anthony Welters",
-        "at": 1510035667911
-      }
+      "done": true
     },
     {
       "n": 3,
@@ -534,7 +518,7 @@
         },
         {
           "n": 2,
-          "machine": "8 ball deluxe ",
+          "machine": "EBD",
           "player_1": "4726eeda5efca087ce5a13055efea8100f1946f6",
           "player_2": "6ab3e5673aacd468e36d271d9b36905c040335c1",
           "done": true,
@@ -561,7 +545,7 @@
         },
         {
           "n": 3,
-          "machine": "Stern Wars",
+          "machine": "SternWars",
           "player_1": "9118417cc92099f69c27a5f4520ee878c4391645",
           "player_2": "de49fd06aa879be50e38999ee4defdf0f165917f",
           "done": true,
@@ -571,8 +555,8 @@
               "url": "/pics/c0c6fdc8d1bf973ec4ddfdff5552fe691e6221d0",
               "rot": 0,
               "scale": 1.9153546557782204,
-              "dx": -873,
-              "dy": -446
+              "dx": -312,
+              "dy": -183
             }
           ],
           "score_1": 152042200,
@@ -675,22 +659,14 @@
           "home_points": 3
         }
       ],
-      "done": true,
-      "right_confirmed": {
-        "by": "Blake Mitchell",
-        "at": 1510037967220
-      },
-      "left_confirmed": {
-        "by": "Anthony Welters",
-        "at": 1510038120126
-      }
+      "done": true
     },
     {
       "n": 4,
       "games": [
         {
           "n": 1,
-          "machine": "Stern Wars",
+          "machine": "SternWars",
           "player_1": "f6af4bc664f0ed90f8cf0fe337403954fa2d6b5f",
           "player_3": "2d9d0cc74113cd26dc57032cf2782fed04b50fa3",
           "player_2": "211c9dcd07ee29f2532d6f8647a7a1f8fab867c2",
@@ -723,7 +699,7 @@
         },
         {
           "n": 2,
-          "machine": "8 ball deluxe ",
+          "machine": "EBD",
           "player_1": "de49fd06aa879be50e38999ee4defdf0f165917f",
           "player_3": "75ebf33699d3de6abb0c4905b115960705bee137",
           "player_2": "4726eeda5efca087ce5a13055efea8100f1946f6",
@@ -811,11 +787,7 @@
           "home_points": 5
         }
       ],
-      "done": true,
-      "left_confirmed": {
-        "by": "Blake Mitchell",
-        "at": 1510040955898
-      }
+      "done": true
     }
   ],
   "players": []
