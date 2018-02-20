@@ -1,0 +1,5390 @@
+{
+  "key": "season-9",
+  "teams": {
+    "PBR": {
+      "key": "PBR",
+      "venue": "AAB",
+      "name": "Point Breakers",
+      "roster": [
+        {
+          "lkey": "matt bollinger",
+          "name": "Matt Bollinger"
+        },
+        {
+          "lkey": "brian hyder",
+          "name": "Brian Hyder"
+        },
+        {
+          "lkey": "geoff simons",
+          "name": "Geoff Simons"
+        },
+        {
+          "lkey": "sophie spickard",
+          "name": "Sophie Spickard"
+        },
+        {
+          "lkey": "dan danger",
+          "name": "Dan Danger"
+        },
+        {
+          "lkey": "matt watts",
+          "name": "Matt Watts"
+        },
+        {
+          "lkey": "josh hornbaker",
+          "name": "Josh Hornbaker"
+        },
+        {
+          "lkey": "matt wolfe",
+          "name": "Matt Wolfe"
+        },
+        {
+          "lkey": "hayden mccabe",
+          "name": "Hayden McCabe"
+        },
+        {
+          "lkey": "bre lloyd",
+          "name": "Bre Lloyd"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-PBR-TWC",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-SCN-PBR",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-PBR-SSS",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-JMF-PBR",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-PBR-CRA",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-SJK-PBR",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-DSV-PBR",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-PBR-SWL",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-IBL-PBR",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-PBR-NLT",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-CHS-PBR",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        }
+      ],
+      "captain": "Sophie Spickard",
+      "co_captain": "Bre Lloyd"
+    },
+    "DSV": {
+      "key": "DSV",
+      "venue": "AAB",
+      "name": "Death Savers",
+      "roster": [
+        {
+          "lkey": "dave stewart",
+          "name": "Dave Stewart"
+        },
+        {
+          "lkey": "tim mccool",
+          "name": "Tim McCool"
+        },
+        {
+          "lkey": "lauren aquino",
+          "name": "Lauren Aquino"
+        },
+        {
+          "lkey": "kevin lessig",
+          "name": "Kevin Lessig"
+        },
+        {
+          "lkey": "zac petersen",
+          "name": "Zac Petersen"
+        },
+        {
+          "lkey": "chelsie hulka",
+          "name": "Chelsie Hulka"
+        },
+        {
+          "lkey": "jonathan hawthorne",
+          "name": "Jonathan Hawthorne"
+        },
+        {
+          "lkey": "umboon moore",
+          "name": "Umboon Moore"
+        },
+        {
+          "lkey": "sarah hager",
+          "name": "Sarah Hager"
+        },
+        {
+          "lkey": "sherry smith",
+          "name": "Sherry Smith"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-JMF-DSV",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-DSV-NLT",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-CRA-DSV",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-DSV-CHS",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-SJK-DSV",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-DSV-TWC",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-DSV-PBR",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-SCN-DSV",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-DSV-SWL",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-SSS-DSV",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-DSV-IBL",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        }
+      ],
+      "co_captain": "Lauren Aquino",
+      "captain": "Zac Petersen"
+    },
+    "SSS": {
+      "key": "SSS",
+      "venue": "SHR",
+      "name": "Silverball Slayers",
+      "roster": [
+        {
+          "lkey": "elijah nelson",
+          "name": "Elijah Nelson"
+        },
+        {
+          "lkey": "sagel frazier",
+          "name": "Sagel Frazier"
+        },
+        {
+          "lkey": "andy burton",
+          "name": "Andy Burton"
+        },
+        {
+          "lkey": "brian chesbrough",
+          "name": "Brian Chesbrough"
+        },
+        {
+          "lkey": "nycole hyatt",
+          "name": "Nycole Hyatt"
+        },
+        {
+          "lkey": "heather loudon",
+          "name": "Heather Loudon"
+        },
+        {
+          "lkey": "max davidoff",
+          "name": "Max Davidoff"
+        },
+        {
+          "lkey": "whitney zissou",
+          "name": "Whitney Zissou"
+        },
+        {
+          "lkey": "brad hayden",
+          "name": "Brad Hayden"
+        },
+        {
+          "lkey": "corey klier",
+          "name": "Corey Klier"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-CRA-SSS",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-SSS-SJK",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-PBR-SSS",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-SSS-SWL",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-IBL-SSS",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-SSS-NLT",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-CHS-SSS",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-SSS-TWC",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-SCN-SSS",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-SSS-DSV",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-SSS-JMF",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        }
+      ],
+      "co_captain": "Brian Chesbrough",
+      "captain": "Heather Loudon"
+    },
+    "NLT": {
+      "key": "NLT",
+      "venue": "OLF",
+      "name": "Northern Lights",
+      "roster": [
+        {
+          "lkey": "kevin birrell",
+          "name": "Kevin Birrell"
+        },
+        {
+          "lkey": "taylor minter",
+          "name": "Taylor Minter"
+        },
+        {
+          "lkey": "james thompson",
+          "name": "James Thompson"
+        },
+        {
+          "lkey": "brett wolfe",
+          "name": "Brett Wolfe"
+        },
+        {
+          "lkey": "jason heitt",
+          "name": "Jason Heitt"
+        },
+        {
+          "lkey": "sam snyder",
+          "name": "Sam Snyder"
+        },
+        {
+          "lkey": "sean detore",
+          "name": "Sean Detore"
+        },
+        {
+          "lkey": "jessica dengler",
+          "name": "Jessica Dengler"
+        },
+        {
+          "lkey": "laura bodine",
+          "name": "Laura Bodine"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-IBL-NLT",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-DSV-NLT",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-NLT-CHS",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-TWC-NLT",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-NLT-SCN",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-SSS-NLT",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-NLT-JMF",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-CRA-NLT",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-NLT-SJK",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-PBR-NLT",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-NLT-SWL",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        }
+      ],
+      "co_captain": "Taylor Minter",
+      "captain": "Brett Wolfe"
+    },
+    "JMF": {
+      "key": "JMF",
+      "venue": "JUP",
+      "name": "Middle Flippers",
+      "roster": [
+        {
+          "lkey": "maka honig",
+          "name": "Maka Honig"
+        },
+        {
+          "lkey": "max stiles",
+          "name": "Max Stiles"
+        },
+        {
+          "lkey": "sam stiles",
+          "name": "Sam Stiles"
+        },
+        {
+          "lkey": "sam atlas",
+          "name": "Sam Atlas"
+        },
+        {
+          "lkey": "daniel salo",
+          "name": "Daniel Salo"
+        },
+        {
+          "lkey": "stanlo slasinski",
+          "name": "Stanlo Slasinski"
+        },
+        {
+          "lkey": "phil harmonic",
+          "name": "Phil Harmonic"
+        },
+        {
+          "lkey": "justin blau",
+          "name": "Justin Blau"
+        },
+        {
+          "lkey": "nate cantor",
+          "name": "Nate Cantor"
+        },
+        {
+          "lkey": "josh anderson",
+          "name": "Josh Anderson"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-JMF-DSV",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-JMF-CRA",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-SJK-JMF",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-JMF-PBR",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-SWL-JMF",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-JMF-IBL",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-NLT-JMF",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-JMF-CHS",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-TWC-JMF",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-JMF-SCN",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-SSS-JMF",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        }
+      ],
+      "captain": "Max Stiles",
+      "co_captain": "Daniel Salo"
+    },
+    "TWC": {
+      "key": "TWC",
+      "venue": "FFD",
+      "name": "The Wrecking Crew",
+      "roster": [
+        {
+          "lkey": "erik gust",
+          "name": "Erik Gust"
+        },
+        {
+          "lkey": "mike pantoliano",
+          "name": "Mike Pantoliano"
+        },
+        {
+          "lkey": "alexa philbeck",
+          "name": "Alexa Philbeck"
+        },
+        {
+          "lkey": "bryan eastman",
+          "name": "Bryan Eastman"
+        },
+        {
+          "lkey": "alan wiley",
+          "name": "Alan Wiley"
+        },
+        {
+          "lkey": "ryan newstrum",
+          "name": "Ryan Newstrum"
+        },
+        {
+          "lkey": "kellan kirkland",
+          "name": "Kellan Kirkland"
+        },
+        {
+          "lkey": "luke camarda",
+          "name": "Luke Camarda"
+        },
+        {
+          "lkey": "rachel helm",
+          "name": "Rachel Helm"
+        },
+        {
+          "lkey": "kylie waibel",
+          "name": "Kylie Waibel"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-PBR-TWC",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-TWC-SWL",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-IBL-TWC",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-TWC-NLT",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-CHS-TWC",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-DSV-TWC",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-TWC-SCN",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-SSS-TWC",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-TWC-JMF",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-CRA-TWC",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-TWC-SJK",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        }
+      ],
+      "captain": "Alexa Philbeck",
+      "co_captain": "Ryan Newstrum"
+    },
+    "SCN": {
+      "key": "SCN",
+      "venue": "NAR",
+      "name": "Seacorns",
+      "roster": [
+        {
+          "lkey": "nic crowson",
+          "name": "Nic Crowson"
+        },
+        {
+          "lkey": "corbin sheffels",
+          "name": "Corbin Sheffels"
+        },
+        {
+          "lkey": "michael darigol",
+          "name": "Michael Darigol"
+        },
+        {
+          "lkey": "matt golden",
+          "name": "Matt Golden"
+        },
+        {
+          "lkey": "claire burke",
+          "name": "Claire Burke"
+        },
+        {
+          "lkey": "danielle crowson",
+          "name": "Danielle Crowson"
+        },
+        {
+          "lkey": "bryn bomar",
+          "name": "Bryn Bomar"
+        },
+        {
+          "lkey": "aaron donny-clark",
+          "name": "Aaron Donny-Clark"
+        },
+        {
+          "lkey": "david palen",
+          "name": "David Palen"
+        },
+        {
+          "lkey": "sarah ledray",
+          "name": "Sarah Ledray"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-SJK-SCN",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-SCN-PBR",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-SWL-SCN",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-SCN-IBL",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-NLT-SCN",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-SCN-CHS",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-TWC-SCN",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-SCN-DSV",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-SCN-SSS",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-JMF-SCN",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-SCN-CRA",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        }
+      ],
+      "captain": "Claire Burke",
+      "co_captain": "Bryn Bomar"
+    },
+    "CRA": {
+      "key": "CRA",
+      "venue": "ANC",
+      "name": "Castle Crashers",
+      "roster": [
+        {
+          "lkey": "john robinson wa",
+          "name": "John Robinson WA"
+        },
+        {
+          "lkey": "joshua francis",
+          "name": "Joshua Francis"
+        },
+        {
+          "lkey": "eric csakany",
+          "name": "Eric Csakany"
+        },
+        {
+          "lkey": "jeff debock",
+          "name": "Jeff Debock"
+        },
+        {
+          "lkey": "michael warfield",
+          "name": "Michael Warfield"
+        },
+        {
+          "lkey": "dickie hornaman",
+          "name": "Dickie Hornaman"
+        },
+        {
+          "lkey": "tim uomoto",
+          "name": "Tim Uomoto"
+        },
+        {
+          "lkey": "mandie moore",
+          "name": "Mandie Moore"
+        },
+        {
+          "lkey": "elliott johnson",
+          "name": "Elliott Johnson"
+        },
+        {
+          "lkey": "david griffin",
+          "name": "David Griffin"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-CRA-SSS",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-JMF-CRA",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-CRA-DSV",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-CRA-SJK",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-PBR-CRA",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-CRA-SWL",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-IBL-CRA",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-CRA-NLT",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-CHS-CRA",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-CRA-TWC",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-SCN-CRA",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        }
+      ],
+      "captain": "Eric Csakany",
+      "co_captain": "David Griffin"
+    },
+    "SWL": {
+      "key": "SWL",
+      "venue": "8BT",
+      "name": "Specials When Lit",
+      "roster": [
+        {
+          "lkey": "matt anderson",
+          "name": "Matt Anderson"
+        },
+        {
+          "lkey": "michael adcock",
+          "name": "Michael Adcock"
+        },
+        {
+          "lkey": "fabian benabente",
+          "name": "Fabian Benabente"
+        },
+        {
+          "lkey": "ashley weaver",
+          "name": "Ashley Weaver"
+        },
+        {
+          "lkey": "katie eichenberger",
+          "name": "Katie Eichenberger"
+        },
+        {
+          "lkey": "john garnett",
+          "name": "John Garnett"
+        },
+        {
+          "lkey": "tim collins",
+          "name": "Tim Collins"
+        },
+        {
+          "lkey": "heather thompson",
+          "name": "Heather Thompson"
+        },
+        {
+          "lkey": "sean shypula",
+          "name": "Sean Shypula"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-SWL-CHS",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-TWC-SWL",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-SWL-SCN",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-SSS-SWL",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-SWL-JMF",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-CRA-SWL",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-SWL-SJK",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-PBR-SWL",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-DSV-SWL",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-SWL-IBL",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-NLT-SWL",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        }
+      ],
+      "co_captain": "Matt Anderson",
+      "captain": "Michael Adcock"
+    },
+    "SJK": {
+      "key": "SJK",
+      "venue": "FTB",
+      "name": "Soda Jerks",
+      "roster": [
+        {
+          "lkey": "raymond davidson",
+          "name": "Raymond Davidson"
+        },
+        {
+          "lkey": "jarrett gaddy",
+          "name": "Jarrett Gaddy"
+        },
+        {
+          "lkey": "john mcallister",
+          "name": "John McAllister"
+        },
+        {
+          "lkey": "bobby conover",
+          "name": "Bobby Conover"
+        },
+        {
+          "lkey": "danny rashid",
+          "name": "Danny Rashid"
+        },
+        {
+          "lkey": "matt galbraith",
+          "name": "Matt Galbraith"
+        },
+        {
+          "lkey": "austin arlitt",
+          "name": "Austin Arlitt"
+        },
+        {
+          "lkey": "phil piwonka",
+          "name": "Phil Piwonka"
+        },
+        {
+          "lkey": "ari golding",
+          "name": "Ari Golding"
+        },
+        {
+          "lkey": "allison mcclure",
+          "name": "Allison Mcclure"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-SJK-SCN",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-SSS-SJK",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-SJK-JMF",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-CRA-SJK",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-SJK-DSV",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-SJK-PBR",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-SWL-SJK",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-SJK-IBL",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-NLT-SJK",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-SJK-CHS",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-TWC-SJK",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        }
+      ],
+      "co_captain": "Raymond Davidson",
+      "captain": "Bobby Conover"
+    },
+    "DTP": {
+      "key": "DTP",
+      "venue": "JUP",
+      "name": "Pinuminati",
+      "roster": [
+        {
+          "lkey": "alex skinner",
+          "name": "Alex Skinner"
+        },
+        {
+          "lkey": "nick taseris",
+          "name": "Nick Taseris"
+        },
+        {
+          "lkey": "jamie winsor",
+          "name": "Jamie Winsor"
+        },
+        {
+          "lkey": "sean irby",
+          "name": "Sean Irby"
+        },
+        {
+          "lkey": "frank sposaro",
+          "name": "Frank Sposaro"
+        },
+        {
+          "lkey": "lucas arias",
+          "name": "Lucas Arias"
+        },
+        {
+          "lkey": "dwayne collins",
+          "name": "Dwayne Collins"
+        },
+        {
+          "lkey": "ash landers",
+          "name": "Ash Landers"
+        },
+        {
+          "lkey": "tressa points",
+          "name": "Tressa Points"
+        },
+        {
+          "lkey": "alex hawley",
+          "name": "Alex Hawley"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-LLK-DTP",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-CPO-DTP",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-DTP-FRZ",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-ALU-DTP",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-DTP-PGN",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-TBT-DTP",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-DTP-HHS",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-CDC-DTP",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-DTP-KNR",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-RMS-DTP",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-DTP-DIH",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        }
+      ],
+      "captain": "Alex Skinner",
+      "co_captain": "Dwayne Collins"
+    },
+    "KNR": {
+      "key": "KNR",
+      "venue": "FFD",
+      "name": "Knight Riders",
+      "roster": [
+        {
+          "lkey": "robbie finnigan",
+          "name": "Robbie Finnigan"
+        },
+        {
+          "lkey": "jon shaiman",
+          "name": "Jon Shaiman"
+        },
+        {
+          "lkey": "algird lisaius",
+          "name": "Algird Lisaius"
+        },
+        {
+          "lkey": "chris kimbrough",
+          "name": "Chris Kimbrough"
+        },
+        {
+          "lkey": "jacob bevan",
+          "name": "Jacob Bevan"
+        },
+        {
+          "lkey": "dominique shadduck",
+          "name": "Dominique Shadduck"
+        },
+        {
+          "lkey": "stephen rakonza",
+          "name": "Stephen Rakonza"
+        },
+        {
+          "lkey": "lauren shepherd",
+          "name": "Lauren Shepherd"
+        },
+        {
+          "lkey": "jeremiah ratledge",
+          "name": "Jeremiah Ratledge"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-KNR-ALU",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-PGN-KNR",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-KNR-TBT",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-HHS-KNR",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-KNR-CDC",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-KNR-LLK",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-RMS-KNR",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-KNR-DIH",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-DTP-KNR",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-KNR-CPO",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-FRZ-KNR",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        }
+      ],
+      "captain": "Robbie Finnigan",
+      "co_captain": "Stephen Rakonza"
+    },
+    "CPO": {
+      "key": "CPO",
+      "venue": "ANC",
+      "name": "Pants Optional",
+      "roster": [
+        {
+          "lkey": "ryan penrod",
+          "name": "Ryan Penrod"
+        },
+        {
+          "lkey": "chris tinney",
+          "name": "Chris Tinney"
+        },
+        {
+          "lkey": "kirk zehrung",
+          "name": "Kirk Zehrung"
+        },
+        {
+          "lkey": "anthony welters",
+          "name": "Anthony Welters"
+        },
+        {
+          "lkey": "rhett pearson",
+          "name": "Rhett Pearson"
+        },
+        {
+          "lkey": "sandy magallanes",
+          "name": "Sandy Magallanes"
+        },
+        {
+          "lkey": "kay kay",
+          "name": "Kay Kay"
+        },
+        {
+          "lkey": "nathan tompkins",
+          "name": "Nathan Tompkins"
+        },
+        {
+          "lkey": "steven mendez",
+          "name": "Steven Mendez"
+        },
+        {
+          "lkey": "kolby krie",
+          "name": "Kolby Krie"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-DIH-CPO",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-CPO-DTP",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-LLK-CPO",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-FRZ-CPO",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-CPO-ALU",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-PGN-CPO",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-CPO-TBT",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-HHS-CPO",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-CPO-CDC",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-KNR-CPO",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-CPO-RMS",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        }
+      ],
+      "captain": "Anthony Welters",
+      "co_captain": "Kay Kay"
+    },
+    "PGN": {
+      "key": "PGN",
+      "venue": "8BT",
+      "name": "Pinguins",
+      "roster": [
+        {
+          "lkey": "philip joupperi",
+          "name": "Philip Joupperi"
+        },
+        {
+          "lkey": "eyehole man",
+          "name": "Eyehole Man"
+        },
+        {
+          "lkey": "anthony mccammant",
+          "name": "Anthony McCammant"
+        },
+        {
+          "lkey": "matt lauro",
+          "name": "Matt Lauro"
+        },
+        {
+          "lkey": "altwin hawksford",
+          "name": "Altwin Hawksford"
+        },
+        {
+          "lkey": "brodi b",
+          "name": "Brodi B"
+        },
+        {
+          "lkey": "ryan tupper",
+          "name": "Ryan Tupper"
+        },
+        {
+          "lkey": "erin shadensack",
+          "name": "Erin Shadensack"
+        },
+        {
+          "lkey": "randall olson",
+          "name": "Randall Olson"
+        },
+        {
+          "lkey": "sam bury",
+          "name": "Sam Bury"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-CDC-PGN",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-PGN-KNR",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-RMS-PGN",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-PGN-DIH",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-DTP-PGN",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-PGN-CPO",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-FRZ-PGN",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-PGN-ALU",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-PGN-LLK",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-TBT-PGN",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-PGN-HHS",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        }
+      ],
+      "captain": "Erin Shadensack",
+      "co_captain": "Randall Olson"
+    },
+    "CHS": {
+      "key": "CHS",
+      "venue": "CDX",
+      "name": "Coinhole Surfers",
+      "roster": [
+        {
+          "lkey": "richie terry",
+          "name": "Richie Terry"
+        },
+        {
+          "lkey": "jesse mullene",
+          "name": "Jesse Mullene"
+        },
+        {
+          "lkey": "mark demmel",
+          "name": "Mark Demmel"
+        },
+        {
+          "lkey": "ramsey sierra",
+          "name": "Ramsey Sierra"
+        },
+        {
+          "lkey": "ian spicknal",
+          "name": "Ian Spicknal"
+        },
+        {
+          "lkey": "richard scott",
+          "name": "Richard Scott"
+        },
+        {
+          "lkey": "richard pugh",
+          "name": "Richard Pugh"
+        },
+        {
+          "lkey": "jeff dillaman",
+          "name": "Jeff Dillaman"
+        },
+        {
+          "lkey": "nikki davis",
+          "name": "Nikki Davis"
+        },
+        {
+          "lkey": "dan atchison",
+          "name": "Dan Atchison"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-SWL-CHS",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-CHS-IBL",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "IBL",
+            "name": "Iron Bullies"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-NLT-CHS",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-DSV-CHS",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-CHS-TWC",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-SCN-CHS",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-CHS-SSS",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-JMF-CHS",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-CHS-CRA",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-SJK-CHS",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-CHS-PBR",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        }
+      ],
+      "co_captain": "Jesse Mullene",
+      "captain": "Ramsey Sierra"
+    },
+    "LLK": {
+      "key": "LLK",
+      "venue": "LLQ",
+      "name": "Lucky Lickers",
+      "roster": [
+        {
+          "lkey": "greg balducci",
+          "name": "Greg Balducci"
+        },
+        {
+          "lkey": "philip pinette",
+          "name": "Philip Pinette"
+        },
+        {
+          "lkey": "stephen brundle",
+          "name": "Stephen Brundle"
+        },
+        {
+          "lkey": "hannah schurman",
+          "name": "Hannah Schurman"
+        },
+        {
+          "lkey": "lo rojas",
+          "name": "Lo Rojas"
+        },
+        {
+          "lkey": "joshua degarmo",
+          "name": "Joshua DeGarmo"
+        },
+        {
+          "lkey": "alicia seftel",
+          "name": "Alicia Seftel"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-LLK-DTP",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-HHS-LLK",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-LLK-CPO",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-CDC-LLK",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-LLK-FRZ",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-KNR-LLK",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-ALU-LLK",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-LLK-RMS",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-PGN-LLK",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-LLK-DIH",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-TBT-LLK",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        }
+      ],
+      "captain": "Greg Balducci",
+      "co_captain": "Alicia Seftel"
+    },
+    "IBL": {
+      "key": "IBL",
+      "venue": "4BS",
+      "name": "Iron Bullies",
+      "roster": [
+        {
+          "lkey": "jon salzman",
+          "name": "Jon Salzman"
+        },
+        {
+          "lkey": "jared baldridge",
+          "name": "Jared Baldridge"
+        },
+        {
+          "lkey": "benton seybold",
+          "name": "Benton Seybold"
+        },
+        {
+          "lkey": "oliver kohut",
+          "name": "Oliver Kohut"
+        },
+        {
+          "lkey": "jeremy edwards",
+          "name": "Jeremy Edwards"
+        },
+        {
+          "lkey": "clayton stetz",
+          "name": "Clayton Stetz"
+        },
+        {
+          "lkey": "jared gamble",
+          "name": "Jared Gamble"
+        },
+        {
+          "lkey": "matt slater",
+          "name": "Matt Slater"
+        },
+        {
+          "lkey": "steph hanlon",
+          "name": "Steph Hanlon"
+        },
+        {
+          "lkey": "timothy kitchen",
+          "name": "Timothy Kitchen"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-IBL-NLT",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "NLT",
+            "name": "Northern Lights"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-CHS-IBL",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "CHS",
+            "name": "Coinhole Surfers"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-IBL-TWC",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "TWC",
+            "name": "The Wrecking Crew"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-SCN-IBL",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "SCN",
+            "name": "Seacorns"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-IBL-SSS",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "SSS",
+            "name": "Silverball Slayers"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-JMF-IBL",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "JMF",
+            "name": "Middle Flippers"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-IBL-CRA",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "CRA",
+            "name": "Castle Crashers"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-SJK-IBL",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "SJK",
+            "name": "Soda Jerks"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-IBL-PBR",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "PBR",
+            "name": "Point Breakers"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-SWL-IBL",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "SWL",
+            "name": "Specials When Lit"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-DSV-IBL",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "DSV",
+            "name": "Death Savers"
+          }
+        }
+      ],
+      "co_captain": "Clayton Stetz",
+      "captain": "Jared Gamble"
+    },
+    "DIH": {
+      "key": "DIH",
+      "venue": "SHR",
+      "name": "Drain in Hell",
+      "roster": [
+        {
+          "lkey": "jay sweeney",
+          "name": "Jay Sweeney"
+        },
+        {
+          "lkey": "jay waymire",
+          "name": "Jay Waymire"
+        },
+        {
+          "lkey": "daniel reddin",
+          "name": "Daniel Reddin"
+        },
+        {
+          "lkey": "chris harrington",
+          "name": "Chris Harrington"
+        },
+        {
+          "lkey": "honi harrison",
+          "name": "Honi Harrison"
+        },
+        {
+          "lkey": "matthew levi tate",
+          "name": "Matthew Levi Tate"
+        },
+        {
+          "lkey": "ari stinson",
+          "name": "Ari Stinson"
+        },
+        {
+          "lkey": "lauren aiello",
+          "name": "Lauren Aiello"
+        },
+        {
+          "lkey": "croix frigo",
+          "name": "Croix Frigo"
+        },
+        {
+          "lkey": "lucy hoffman",
+          "name": "Lucy Hoffman"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-DIH-CPO",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-FRZ-DIH",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-DIH-ALU",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-PGN-DIH",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-DIH-TBT",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-HHS-DIH",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-DIH-CDC",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-KNR-DIH",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-DIH-RMS",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-LLK-DIH",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-DTP-DIH",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        }
+      ],
+      "captain": "Jay Sweeney",
+      "co_captain": "Daniel Reddin"
+    },
+    "TBT": {
+      "key": "TBT",
+      "venue": "4BS",
+      "name": "The B Team",
+      "roster": [
+        {
+          "lkey": "blake mitchell",
+          "name": "Blake Mitchell"
+        },
+        {
+          "lkey": "flash haze",
+          "name": "Flash Haze"
+        },
+        {
+          "lkey": "nina ricciardi",
+          "name": "Nina Ricciardi"
+        },
+        {
+          "lkey": "tyler morgan",
+          "name": "Tyler Morgan"
+        },
+        {
+          "lkey": "nick gibson",
+          "name": "Nick Gibson"
+        },
+        {
+          "lkey": "lawrence campbell",
+          "name": "Lawrence Campbell"
+        },
+        {
+          "lkey": "ren logan",
+          "name": "Ren Logan"
+        },
+        {
+          "lkey": "fernando pizarro",
+          "name": "Fernando Pizarro"
+        },
+        {
+          "lkey": "abdulla syed",
+          "name": "Abdulla Syed"
+        },
+        {
+          "lkey": "sarah decory",
+          "name": "Sarah Decory"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-HHS-TBT",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-TBT-CDC",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-KNR-TBT",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-TBT-RMS",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-DIH-TBT",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-TBT-DTP",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-CPO-TBT",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-TBT-FRZ",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-ALU-TBT",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-TBT-PGN",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-TBT-LLK",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        }
+      ],
+      "captain": "Blake Mitchell",
+      "co_captain": "Tyler Morgan"
+    },
+    "HHS": {
+      "key": "HHS",
+      "venue": "HND",
+      "name": "Hellhounds",
+      "roster": [
+        {
+          "lkey": "alex singleterry",
+          "name": "Alex Singleterry"
+        },
+        {
+          "lkey": "mika rollin",
+          "name": "Mika Rollin"
+        },
+        {
+          "lkey": "keenan goodall",
+          "name": "Keenan Goodall"
+        },
+        {
+          "lkey": "tyler moore",
+          "name": "Tyler Moore"
+        },
+        {
+          "lkey": "phillip dodt",
+          "name": "Phillip Dodt"
+        },
+        {
+          "lkey": "paul white",
+          "name": "Paul White"
+        },
+        {
+          "lkey": "megan czahar",
+          "name": "Megan Czahar"
+        },
+        {
+          "lkey": "alex hart",
+          "name": "Alex Hart"
+        },
+        {
+          "lkey": "andy glass",
+          "name": "Andy Glass"
+        },
+        {
+          "lkey": "emerson gelb",
+          "name": "Emerson Gelb"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-HHS-TBT",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-HHS-LLK",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-CDC-HHS",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-HHS-KNR",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-RMS-HHS",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-HHS-DIH",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-DTP-HHS",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-HHS-CPO",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-FRZ-HHS",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-HHS-ALU",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-PGN-HHS",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        }
+      ],
+      "co_captain": "Alex Singleterry",
+      "captain": "Megan Czahar"
+    },
+    "RMS": {
+      "key": "RMS",
+      "venue": "RAY",
+      "name": "Magic Saves",
+      "roster": [
+        {
+          "lkey": "michael senff",
+          "name": "Michael Senff"
+        },
+        {
+          "lkey": "ryan henak",
+          "name": "Ryan Henak"
+        },
+        {
+          "lkey": "michael zuino",
+          "name": "Michael Zuino"
+        },
+        {
+          "lkey": "joe ricci",
+          "name": "Joe Ricci"
+        },
+        {
+          "lkey": "randy huynh",
+          "name": "Randy Huynh"
+        },
+        {
+          "lkey": "nif ward",
+          "name": "Nif Ward"
+        },
+        {
+          "lkey": "atticus wiman",
+          "name": "Atticus Wiman"
+        },
+        {
+          "lkey": "dave kane",
+          "name": "Dave Kane"
+        },
+        {
+          "lkey": "josh schaffner",
+          "name": "Josh Schaffner"
+        },
+        {
+          "lkey": "josh swaney",
+          "name": "Josh Swaney"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-RMS-FRZ",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-ALU-RMS",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-RMS-PGN",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-TBT-RMS",
+          "week": "4",
+          "side": "vs",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-RMS-HHS",
+          "week": "5",
+          "side": "@",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-CDC-RMS",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-RMS-KNR",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-LLK-RMS",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-DIH-RMS",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-RMS-DTP",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-CPO-RMS",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        }
+      ],
+      "captain": "Michael Zuino",
+      "co_captain": "Nif Ward"
+    },
+    "CDC": {
+      "key": "CDC",
+      "venue": "CDX",
+      "name": "Contras",
+      "roster": [
+        {
+          "lkey": "aaron bendickson",
+          "name": "Aaron Bendickson"
+        },
+        {
+          "lkey": "robert rowland",
+          "name": "Robert Rowland"
+        },
+        {
+          "lkey": "jorge romero",
+          "name": "Jorge Romero"
+        },
+        {
+          "lkey": "dj youngblood",
+          "name": "Dj Youngblood"
+        },
+        {
+          "lkey": "mark mcclure",
+          "name": "Mark McClure"
+        },
+        {
+          "lkey": "clayton michael",
+          "name": "Clayton Michael"
+        },
+        {
+          "lkey": "nick bates-benitez",
+          "name": "Nick Bates-Benitez"
+        },
+        {
+          "lkey": "mike cook",
+          "name": "Mike Cook"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-CDC-PGN",
+          "week": "1",
+          "side": "@",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-TBT-CDC",
+          "week": "2",
+          "side": "vs",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-CDC-HHS",
+          "week": "3",
+          "side": "@",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-CDC-LLK",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-KNR-CDC",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-CDC-RMS",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-DIH-CDC",
+          "week": "7",
+          "side": "vs",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-CDC-DTP",
+          "week": "8",
+          "side": "@",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-CPO-CDC",
+          "week": "9",
+          "side": "vs",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-CDC-FRZ",
+          "week": "10",
+          "side": "@",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-ALU-CDC",
+          "week": "11",
+          "side": "vs",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        }
+      ],
+      "captain": "Aaron Bendickson",
+      "co_captain": "Mark McClure"
+    },
+    "FRZ": {
+      "key": "FRZ",
+      "venue": "FTC",
+      "name": "Drain Freeze",
+      "roster": [
+        {
+          "lkey": "maureen hendrix",
+          "name": "Maureen Hendrix"
+        },
+        {
+          "lkey": "brooke borcherding",
+          "name": "Brooke Borcherding"
+        },
+        {
+          "lkey": "kayla greet",
+          "name": "Kayla Greet"
+        },
+        {
+          "lkey": "andy yarritu",
+          "name": "Andy Yarritu"
+        },
+        {
+          "lkey": "neil oney",
+          "name": "Neil Oney"
+        },
+        {
+          "lkey": "alan woodyard",
+          "name": "Alan Woodyard"
+        },
+        {
+          "lkey": "emily beirne",
+          "name": "Emily Beirne"
+        },
+        {
+          "lkey": "jay hain",
+          "name": "Jay Hain"
+        },
+        {
+          "lkey": "adam aly",
+          "name": "Adam Aly"
+        },
+        {
+          "lkey": "sherae lascelles",
+          "name": "Sherae Lascelles"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-RMS-FRZ",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-FRZ-DIH",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-DTP-FRZ",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-FRZ-CPO",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-LLK-FRZ",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-ALU-FRZ",
+          "week": "6",
+          "side": "vs",
+          "opp": {
+            "key": "ALU",
+            "name": "All Locked Up"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-FRZ-PGN",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-TBT-FRZ",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-FRZ-HHS",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-CDC-FRZ",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-FRZ-KNR",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        }
+      ],
+      "co_captain": "Maureen Hendrix",
+      "captain": "Brooke Borcherding"
+    },
+    "ALU": {
+      "key": "ALU",
+      "venue": "VID",
+      "name": "All Locked Up",
+      "roster": [
+        {
+          "lkey": "nikolai shere",
+          "name": "Nikolai Shere"
+        },
+        {
+          "lkey": "jackson mccomish",
+          "name": "Jackson Mccomish"
+        },
+        {
+          "lkey": "rachel stack",
+          "name": "Rachel Stack"
+        },
+        {
+          "lkey": "tony mitchum",
+          "name": "Tony Mitchum"
+        },
+        {
+          "lkey": "zak geier",
+          "name": "Zak Geier"
+        },
+        {
+          "lkey": "daniel marino",
+          "name": "Daniel Marino"
+        },
+        {
+          "lkey": "deborah torrison",
+          "name": "Deborah Torrison"
+        },
+        {
+          "lkey": "gabrielle torrison",
+          "name": "Gabrielle Torrison"
+        },
+        {
+          "lkey": "kordell roberts",
+          "name": "Kordell Roberts"
+        },
+        {
+          "lkey": "will shull",
+          "name": "Will Shull"
+        }
+      ],
+      "schedule": [
+        {
+          "match_key": "mnp-9-1-KNR-ALU",
+          "week": "1",
+          "side": "vs",
+          "opp": {
+            "key": "KNR",
+            "name": "Knight Riders"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-ALU-RMS",
+          "week": "2",
+          "side": "@",
+          "opp": {
+            "key": "RMS",
+            "name": "Magic Saves"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-DIH-ALU",
+          "week": "3",
+          "side": "vs",
+          "opp": {
+            "key": "DIH",
+            "name": "Drain in Hell"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-ALU-DTP",
+          "week": "4",
+          "side": "@",
+          "opp": {
+            "key": "DTP",
+            "name": "Pinuminati"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-CPO-ALU",
+          "week": "5",
+          "side": "vs",
+          "opp": {
+            "key": "CPO",
+            "name": "Pants Optional"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-ALU-FRZ",
+          "week": "6",
+          "side": "@",
+          "opp": {
+            "key": "FRZ",
+            "name": "Drain Freeze"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-ALU-LLK",
+          "week": "7",
+          "side": "@",
+          "opp": {
+            "key": "LLK",
+            "name": "Lucky Lickers"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-PGN-ALU",
+          "week": "8",
+          "side": "vs",
+          "opp": {
+            "key": "PGN",
+            "name": "Pinguins"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-ALU-TBT",
+          "week": "9",
+          "side": "@",
+          "opp": {
+            "key": "TBT",
+            "name": "The B Team"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-HHS-ALU",
+          "week": "10",
+          "side": "vs",
+          "opp": {
+            "key": "HHS",
+            "name": "Hellhounds"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-ALU-CDC",
+          "week": "11",
+          "side": "@",
+          "opp": {
+            "key": "CDC",
+            "name": "Contras"
+          }
+        }
+      ],
+      "captain": "Nikolai Shere",
+      "co_captain": "Zak Geier"
+    }
+  },
+  "weeks": [
+    {
+      "n": "1",
+      "label": "WEEK 1",
+      "code": "WK1",
+      "isPlayoffs": false,
+      "date": "02/12/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-1-SWL-CHS",
+          "away_key": "SWL",
+          "away_name": "Specials When Lit",
+          "away_linked": true,
+          "home_key": "CHS",
+          "home_name": "Coinhole Surfers",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-JMF-DSV",
+          "away_key": "JMF",
+          "away_name": "Middle Flippers",
+          "away_linked": true,
+          "home_key": "DSV",
+          "home_name": "Death Savers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-PBR-TWC",
+          "away_key": "PBR",
+          "away_name": "Point Breakers",
+          "away_linked": true,
+          "home_key": "TWC",
+          "home_name": "The Wrecking Crew",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-CRA-SSS",
+          "away_key": "CRA",
+          "away_name": "Castle Crashers",
+          "away_linked": true,
+          "home_key": "SSS",
+          "home_name": "Silverball Slayers",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-SJK-SCN",
+          "away_key": "SJK",
+          "away_name": "Soda Jerks",
+          "away_linked": true,
+          "home_key": "SCN",
+          "home_name": "Seacorns",
+          "home_linked": true,
+          "venue": {
+            "key": "NAR",
+            "name": "Narwhal/Unicorn"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-IBL-NLT",
+          "away_key": "IBL",
+          "away_name": "Iron Bullies",
+          "away_linked": true,
+          "home_key": "NLT",
+          "home_name": "Northern Lights",
+          "home_linked": true,
+          "venue": {
+            "key": "OLF",
+            "name": "Olaf's"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-CDC-PGN",
+          "away_key": "CDC",
+          "away_name": "Contras",
+          "away_linked": true,
+          "home_key": "PGN",
+          "home_name": "Pinguins",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-LLK-DTP",
+          "away_key": "LLK",
+          "away_name": "Lucky Lickers",
+          "away_linked": true,
+          "home_key": "DTP",
+          "home_name": "Pinuminati",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-KNR-ALU",
+          "away_key": "KNR",
+          "away_name": "Knight Riders",
+          "away_linked": true,
+          "home_key": "ALU",
+          "home_name": "All Locked Up",
+          "home_linked": true,
+          "venue": {
+            "key": "VID",
+            "name": "Vidiot"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-DIH-CPO",
+          "away_key": "DIH",
+          "away_name": "Drain in Hell",
+          "away_linked": true,
+          "home_key": "CPO",
+          "home_name": "Pants Optional",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-RMS-FRZ",
+          "away_key": "RMS",
+          "away_name": "Magic Saves",
+          "away_linked": true,
+          "home_key": "FRZ",
+          "home_name": "Drain Freeze",
+          "home_linked": true,
+          "venue": {
+            "key": "FCH",
+            "name": "FCH"
+          }
+        },
+        {
+          "match_key": "mnp-9-1-HHS-TBT",
+          "away_key": "HHS",
+          "away_name": "Hellhounds",
+          "away_linked": true,
+          "home_key": "TBT",
+          "home_name": "The B Team",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        }
+      ]
+    },
+    {
+      "n": "2",
+      "label": "WEEK 2",
+      "code": "WK2",
+      "isPlayoffs": false,
+      "date": "02/19/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-2-SSS-SJK",
+          "away_key": "SSS",
+          "away_name": "Silverball Slayers",
+          "away_linked": true,
+          "home_key": "SJK",
+          "home_name": "Soda Jerks",
+          "home_linked": true,
+          "venue": {
+            "key": "FTB",
+            "name": "Full Tilt Ballard"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-DSV-NLT",
+          "away_key": "DSV",
+          "away_name": "Death Savers",
+          "away_linked": true,
+          "home_key": "NLT",
+          "home_name": "Northern Lights",
+          "home_linked": true,
+          "venue": {
+            "key": "OLF",
+            "name": "Olaf's"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-SCN-PBR",
+          "away_key": "SCN",
+          "away_name": "Seacorns",
+          "away_linked": true,
+          "home_key": "PBR",
+          "home_name": "Point Breakers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-CHS-IBL",
+          "away_key": "CHS",
+          "away_name": "Coinhole Surfers",
+          "away_linked": true,
+          "home_key": "IBL",
+          "home_name": "Iron Bullies",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-TWC-SWL",
+          "away_key": "TWC",
+          "away_name": "The Wrecking Crew",
+          "away_linked": true,
+          "home_key": "SWL",
+          "home_name": "Specials When Lit",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-JMF-CRA",
+          "away_key": "JMF",
+          "away_name": "Middle Flippers",
+          "away_linked": true,
+          "home_key": "CRA",
+          "home_name": "Castle Crashers",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-FRZ-DIH",
+          "away_key": "FRZ",
+          "away_name": "Drain Freeze",
+          "away_linked": true,
+          "home_key": "DIH",
+          "home_name": "Drain in Hell",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-HHS-LLK",
+          "away_key": "HHS",
+          "away_name": "Hellhounds",
+          "away_linked": true,
+          "home_key": "LLK",
+          "home_name": "Lucky Lickers",
+          "home_linked": true,
+          "venue": {
+            "key": "LLQ",
+            "name": "Lucky Liquor"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-ALU-RMS",
+          "away_key": "ALU",
+          "away_name": "All Locked Up",
+          "away_linked": true,
+          "home_key": "RMS",
+          "home_name": "Magic Saves",
+          "home_linked": true,
+          "venue": {
+            "key": "RAY",
+            "name": "Raygun Lounge"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-TBT-CDC",
+          "away_key": "TBT",
+          "away_name": "The B Team",
+          "away_linked": true,
+          "home_key": "CDC",
+          "home_name": "Contras",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-PGN-KNR",
+          "away_key": "PGN",
+          "away_name": "Pinguins",
+          "away_linked": true,
+          "home_key": "KNR",
+          "home_name": "Knight Riders",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        },
+        {
+          "match_key": "mnp-9-2-CPO-DTP",
+          "away_key": "CPO",
+          "away_name": "Pants Optional",
+          "away_linked": true,
+          "home_key": "DTP",
+          "home_name": "Pinuminati",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        }
+      ]
+    },
+    {
+      "n": "3",
+      "label": "WEEK 3",
+      "code": "WK3",
+      "isPlayoffs": false,
+      "date": "02/26/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-3-IBL-TWC",
+          "away_key": "IBL",
+          "away_name": "Iron Bullies",
+          "away_linked": true,
+          "home_key": "TWC",
+          "home_name": "The Wrecking Crew",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-CRA-DSV",
+          "away_key": "CRA",
+          "away_name": "Castle Crashers",
+          "away_linked": true,
+          "home_key": "DSV",
+          "home_name": "Death Savers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-SWL-SCN",
+          "away_key": "SWL",
+          "away_name": "Specials When Lit",
+          "away_linked": true,
+          "home_key": "SCN",
+          "home_name": "Seacorns",
+          "home_linked": true,
+          "venue": {
+            "key": "NAR",
+            "name": "Narwhal/Unicorn"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-SJK-JMF",
+          "away_key": "SJK",
+          "away_name": "Soda Jerks",
+          "away_linked": true,
+          "home_key": "JMF",
+          "home_name": "Middle Flippers",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-PBR-SSS",
+          "away_key": "PBR",
+          "away_name": "Point Breakers",
+          "away_linked": true,
+          "home_key": "SSS",
+          "home_name": "Silverball Slayers",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-NLT-CHS",
+          "away_key": "NLT",
+          "away_name": "Northern Lights",
+          "away_linked": true,
+          "home_key": "CHS",
+          "home_name": "Coinhole Surfers",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-KNR-TBT",
+          "away_key": "KNR",
+          "away_name": "Knight Riders",
+          "away_linked": true,
+          "home_key": "TBT",
+          "home_name": "The B Team",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-LLK-CPO",
+          "away_key": "LLK",
+          "away_name": "Lucky Lickers",
+          "away_linked": true,
+          "home_key": "CPO",
+          "home_name": "Pants Optional",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-RMS-PGN",
+          "away_key": "RMS",
+          "away_name": "Magic Saves",
+          "away_linked": true,
+          "home_key": "PGN",
+          "home_name": "Pinguins",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-DTP-FRZ",
+          "away_key": "DTP",
+          "away_name": "Pinuminati",
+          "away_linked": true,
+          "home_key": "FRZ",
+          "home_name": "Drain Freeze",
+          "home_linked": true,
+          "venue": {
+            "key": "FCH",
+            "name": "FCH"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-DIH-ALU",
+          "away_key": "DIH",
+          "away_name": "Drain in Hell",
+          "away_linked": true,
+          "home_key": "ALU",
+          "home_name": "All Locked Up",
+          "home_linked": true,
+          "venue": {
+            "key": "VID",
+            "name": "Vidiot"
+          }
+        },
+        {
+          "match_key": "mnp-9-3-CDC-HHS",
+          "away_key": "CDC",
+          "away_name": "Contras",
+          "away_linked": true,
+          "home_key": "HHS",
+          "home_name": "Hellhounds",
+          "home_linked": true,
+          "venue": {
+            "key": "HND",
+            "name": "Hounds Tooth"
+          }
+        }
+      ]
+    },
+    {
+      "n": "4",
+      "label": "WEEK 4",
+      "code": "WK4",
+      "isPlayoffs": false,
+      "date": "03/05/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-4-JMF-PBR",
+          "away_key": "JMF",
+          "away_name": "Middle Flippers",
+          "away_linked": true,
+          "home_key": "PBR",
+          "home_name": "Point Breakers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-DSV-CHS",
+          "away_key": "DSV",
+          "away_name": "Death Savers",
+          "away_linked": true,
+          "home_key": "CHS",
+          "home_name": "Coinhole Surfers",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-SSS-SWL",
+          "away_key": "SSS",
+          "away_name": "Silverball Slayers",
+          "away_linked": true,
+          "home_key": "SWL",
+          "home_name": "Specials When Lit",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-TWC-NLT",
+          "away_key": "TWC",
+          "away_name": "The Wrecking Crew",
+          "away_linked": true,
+          "home_key": "NLT",
+          "home_name": "Northern Lights",
+          "home_linked": true,
+          "venue": {
+            "key": "OLF",
+            "name": "Olaf's"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-SCN-IBL",
+          "away_key": "SCN",
+          "away_name": "Seacorns",
+          "away_linked": true,
+          "home_key": "IBL",
+          "home_name": "Iron Bullies",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-CRA-SJK",
+          "away_key": "CRA",
+          "away_name": "Castle Crashers",
+          "away_linked": true,
+          "home_key": "SJK",
+          "home_name": "Soda Jerks",
+          "home_linked": true,
+          "venue": {
+            "key": "FTB",
+            "name": "Full Tilt Ballard"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-ALU-DTP",
+          "away_key": "ALU",
+          "away_name": "All Locked Up",
+          "away_linked": true,
+          "home_key": "DTP",
+          "home_name": "Pinuminati",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-CDC-LLK",
+          "away_key": "CDC",
+          "away_name": "Contras",
+          "away_linked": true,
+          "home_key": "LLK",
+          "home_name": "Lucky Lickers",
+          "home_linked": true,
+          "venue": {
+            "key": "LLQ",
+            "name": "Lucky Liquor"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-PGN-DIH",
+          "away_key": "PGN",
+          "away_name": "Pinguins",
+          "away_linked": true,
+          "home_key": "DIH",
+          "home_name": "Drain in Hell",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-HHS-KNR",
+          "away_key": "HHS",
+          "away_name": "Hellhounds",
+          "away_linked": true,
+          "home_key": "KNR",
+          "home_name": "Knight Riders",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-TBT-RMS",
+          "away_key": "TBT",
+          "away_name": "The B Team",
+          "away_linked": true,
+          "home_key": "RMS",
+          "home_name": "Magic Saves",
+          "home_linked": true,
+          "venue": {
+            "key": "RAY",
+            "name": "Raygun Lounge"
+          }
+        },
+        {
+          "match_key": "mnp-9-4-FRZ-CPO",
+          "away_key": "FRZ",
+          "away_name": "Drain Freeze",
+          "away_linked": true,
+          "home_key": "CPO",
+          "home_name": "Pants Optional",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        }
+      ]
+    },
+    {
+      "n": "5",
+      "label": "WEEK 5",
+      "code": "WK5",
+      "isPlayoffs": false,
+      "date": "03/12/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-5-NLT-SCN",
+          "away_key": "NLT",
+          "away_name": "Northern Lights",
+          "away_linked": true,
+          "home_key": "SCN",
+          "home_name": "Seacorns",
+          "home_linked": true,
+          "venue": {
+            "key": "NAR",
+            "name": "Narwhal/Unicorn"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-SJK-DSV",
+          "away_key": "SJK",
+          "away_name": "Soda Jerks",
+          "away_linked": true,
+          "home_key": "DSV",
+          "home_name": "Death Savers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-IBL-SSS",
+          "away_key": "IBL",
+          "away_name": "Iron Bullies",
+          "away_linked": true,
+          "home_key": "SSS",
+          "home_name": "Silverball Slayers",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-PBR-CRA",
+          "away_key": "PBR",
+          "away_name": "Point Breakers",
+          "away_linked": true,
+          "home_key": "CRA",
+          "home_name": "Castle Crashers",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-SWL-JMF",
+          "away_key": "SWL",
+          "away_name": "Specials When Lit",
+          "away_linked": true,
+          "home_key": "JMF",
+          "home_name": "Middle Flippers",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-CHS-TWC",
+          "away_key": "CHS",
+          "away_name": "Coinhole Surfers",
+          "away_linked": true,
+          "home_key": "TWC",
+          "home_name": "The Wrecking Crew",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-RMS-HHS",
+          "away_key": "RMS",
+          "away_name": "Magic Saves",
+          "away_linked": true,
+          "home_key": "HHS",
+          "home_name": "Hellhounds",
+          "home_linked": true,
+          "venue": {
+            "key": "HND",
+            "name": "Hounds Tooth"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-LLK-FRZ",
+          "away_key": "LLK",
+          "away_name": "Lucky Lickers",
+          "away_linked": true,
+          "home_key": "FRZ",
+          "home_name": "Drain Freeze",
+          "home_linked": true,
+          "venue": {
+            "key": "FCH",
+            "name": "FCH"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-DIH-TBT",
+          "away_key": "DIH",
+          "away_name": "Drain in Hell",
+          "away_linked": true,
+          "home_key": "TBT",
+          "home_name": "The B Team",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-CPO-ALU",
+          "away_key": "CPO",
+          "away_name": "Pants Optional",
+          "away_linked": true,
+          "home_key": "ALU",
+          "home_name": "All Locked Up",
+          "home_linked": true,
+          "venue": {
+            "key": "VID",
+            "name": "Vidiot"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-DTP-PGN",
+          "away_key": "DTP",
+          "away_name": "Pinuminati",
+          "away_linked": true,
+          "home_key": "PGN",
+          "home_name": "Pinguins",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-9-5-KNR-CDC",
+          "away_key": "KNR",
+          "away_name": "Knight Riders",
+          "away_linked": true,
+          "home_key": "CDC",
+          "home_name": "Contras",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        }
+      ]
+    },
+    {
+      "n": "6",
+      "label": "WEEK 6",
+      "code": "WK6",
+      "isPlayoffs": false,
+      "date": "03/19/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-6-CRA-SWL",
+          "away_key": "CRA",
+          "away_name": "Castle Crashers",
+          "away_linked": true,
+          "home_key": "SWL",
+          "home_name": "Specials When Lit",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-DSV-TWC",
+          "away_key": "DSV",
+          "away_name": "Death Savers",
+          "away_linked": true,
+          "home_key": "TWC",
+          "home_name": "The Wrecking Crew",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-JMF-IBL",
+          "away_key": "JMF",
+          "away_name": "Middle Flippers",
+          "away_linked": true,
+          "home_key": "IBL",
+          "home_name": "Iron Bullies",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-SCN-CHS",
+          "away_key": "SCN",
+          "away_name": "Seacorns",
+          "away_linked": true,
+          "home_key": "CHS",
+          "home_name": "Coinhole Surfers",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-SSS-NLT",
+          "away_key": "SSS",
+          "away_name": "Silverball Slayers",
+          "away_linked": true,
+          "home_key": "NLT",
+          "home_name": "Northern Lights",
+          "home_linked": true,
+          "venue": {
+            "key": "OLF",
+            "name": "Olaf's"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-SJK-PBR",
+          "away_key": "SJK",
+          "away_name": "Soda Jerks",
+          "away_linked": true,
+          "home_key": "PBR",
+          "home_name": "Point Breakers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-PGN-CPO",
+          "away_key": "PGN",
+          "away_name": "Pinguins",
+          "away_linked": true,
+          "home_key": "CPO",
+          "home_name": "Pants Optional",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-KNR-LLK",
+          "away_key": "KNR",
+          "away_name": "Knight Riders",
+          "away_linked": true,
+          "home_key": "LLK",
+          "home_name": "Lucky Lickers",
+          "home_linked": true,
+          "venue": {
+            "key": "LLQ",
+            "name": "Lucky Liquor"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-TBT-DTP",
+          "away_key": "TBT",
+          "away_name": "The B Team",
+          "away_linked": true,
+          "home_key": "DTP",
+          "home_name": "Pinuminati",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-CDC-RMS",
+          "away_key": "CDC",
+          "away_name": "Contras",
+          "away_linked": true,
+          "home_key": "RMS",
+          "home_name": "Magic Saves",
+          "home_linked": true,
+          "venue": {
+            "key": "RAY",
+            "name": "Raygun Lounge"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-HHS-DIH",
+          "away_key": "HHS",
+          "away_name": "Hellhounds",
+          "away_linked": true,
+          "home_key": "DIH",
+          "home_name": "Drain in Hell",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        },
+        {
+          "match_key": "mnp-9-6-ALU-FRZ",
+          "away_key": "ALU",
+          "away_name": "All Locked Up",
+          "away_linked": true,
+          "home_key": "FRZ",
+          "home_name": "Drain Freeze",
+          "home_linked": true,
+          "venue": {
+            "key": "FCH",
+            "name": "FCH"
+          }
+        }
+      ]
+    },
+    {
+      "n": "7",
+      "label": "WEEK 7",
+      "code": "WK7",
+      "isPlayoffs": false,
+      "date": "04/02/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-7-CHS-SSS",
+          "away_key": "CHS",
+          "away_name": "Coinhole Surfers",
+          "away_linked": true,
+          "home_key": "SSS",
+          "home_name": "Silverball Slayers",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-DSV-PBR",
+          "away_key": "DSV",
+          "away_name": "Death Savers",
+          "away_linked": true,
+          "home_key": "PBR",
+          "home_name": "Point Breakers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-NLT-JMF",
+          "away_key": "NLT",
+          "away_name": "Northern Lights",
+          "away_linked": true,
+          "home_key": "JMF",
+          "home_name": "Middle Flippers",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-SWL-SJK",
+          "away_key": "SWL",
+          "away_name": "Specials When Lit",
+          "away_linked": true,
+          "home_key": "SJK",
+          "home_name": "Soda Jerks",
+          "home_linked": true,
+          "venue": {
+            "key": "FTB",
+            "name": "Full Tilt Ballard"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-IBL-CRA",
+          "away_key": "IBL",
+          "away_name": "Iron Bullies",
+          "away_linked": true,
+          "home_key": "CRA",
+          "home_name": "Castle Crashers",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-TWC-SCN",
+          "away_key": "TWC",
+          "away_name": "The Wrecking Crew",
+          "away_linked": true,
+          "home_key": "SCN",
+          "home_name": "Seacorns",
+          "home_linked": true,
+          "venue": {
+            "key": "NAR",
+            "name": "Narwhal/Unicorn"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-DIH-CDC",
+          "away_key": "DIH",
+          "away_name": "Drain in Hell",
+          "away_linked": true,
+          "home_key": "CDC",
+          "home_name": "Contras",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-ALU-LLK",
+          "away_key": "ALU",
+          "away_name": "All Locked Up",
+          "away_linked": true,
+          "home_key": "LLK",
+          "home_name": "Lucky Lickers",
+          "home_linked": true,
+          "venue": {
+            "key": "LLQ",
+            "name": "Lucky Liquor"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-DTP-HHS",
+          "away_key": "DTP",
+          "away_name": "Pinuminati",
+          "away_linked": true,
+          "home_key": "HHS",
+          "home_name": "Hellhounds",
+          "home_linked": true,
+          "venue": {
+            "key": "HND",
+            "name": "Hounds Tooth"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-FRZ-PGN",
+          "away_key": "FRZ",
+          "away_name": "Drain Freeze",
+          "away_linked": true,
+          "home_key": "PGN",
+          "home_name": "Pinguins",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-CPO-TBT",
+          "away_key": "CPO",
+          "away_name": "Pants Optional",
+          "away_linked": true,
+          "home_key": "TBT",
+          "home_name": "The B Team",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        },
+        {
+          "match_key": "mnp-9-7-RMS-KNR",
+          "away_key": "RMS",
+          "away_name": "Magic Saves",
+          "away_linked": true,
+          "home_key": "KNR",
+          "home_name": "Knight Riders",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        }
+      ]
+    },
+    {
+      "n": "8",
+      "label": "WEEK 8",
+      "code": "WK8",
+      "isPlayoffs": false,
+      "date": "04/09/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-8-SJK-IBL",
+          "away_key": "SJK",
+          "away_name": "Soda Jerks",
+          "away_linked": true,
+          "home_key": "IBL",
+          "home_name": "Iron Bullies",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-SCN-DSV",
+          "away_key": "SCN",
+          "away_name": "Seacorns",
+          "away_linked": true,
+          "home_key": "DSV",
+          "home_name": "Death Savers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-CRA-NLT",
+          "away_key": "CRA",
+          "away_name": "Castle Crashers",
+          "away_linked": true,
+          "home_key": "NLT",
+          "home_name": "Northern Lights",
+          "home_linked": true,
+          "venue": {
+            "key": "OLF",
+            "name": "Olaf's"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-SSS-TWC",
+          "away_key": "SSS",
+          "away_name": "Silverball Slayers",
+          "away_linked": true,
+          "home_key": "TWC",
+          "home_name": "The Wrecking Crew",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-JMF-CHS",
+          "away_key": "JMF",
+          "away_name": "Middle Flippers",
+          "away_linked": true,
+          "home_key": "CHS",
+          "home_name": "Coinhole Surfers",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-PBR-SWL",
+          "away_key": "PBR",
+          "away_name": "Point Breakers",
+          "away_linked": true,
+          "home_key": "SWL",
+          "home_name": "Specials When Lit",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-TBT-FRZ",
+          "away_key": "TBT",
+          "away_name": "The B Team",
+          "away_linked": true,
+          "home_key": "FRZ",
+          "home_name": "Drain Freeze",
+          "home_linked": true,
+          "venue": {
+            "key": "FCH",
+            "name": "FCH"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-LLK-RMS",
+          "away_key": "LLK",
+          "away_name": "Lucky Lickers",
+          "away_linked": true,
+          "home_key": "RMS",
+          "home_name": "Magic Saves",
+          "home_linked": true,
+          "venue": {
+            "key": "RAY",
+            "name": "Raygun Lounge"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-HHS-CPO",
+          "away_key": "HHS",
+          "away_name": "Hellhounds",
+          "away_linked": true,
+          "home_key": "CPO",
+          "home_name": "Pants Optional",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-KNR-DIH",
+          "away_key": "KNR",
+          "away_name": "Knight Riders",
+          "away_linked": true,
+          "home_key": "DIH",
+          "home_name": "Drain in Hell",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-CDC-DTP",
+          "away_key": "CDC",
+          "away_name": "Contras",
+          "away_linked": true,
+          "home_key": "DTP",
+          "home_name": "Pinuminati",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        },
+        {
+          "match_key": "mnp-9-8-PGN-ALU",
+          "away_key": "PGN",
+          "away_name": "Pinguins",
+          "away_linked": true,
+          "home_key": "ALU",
+          "home_name": "All Locked Up",
+          "home_linked": true,
+          "venue": {
+            "key": "VID",
+            "name": "Vidiot"
+          }
+        }
+      ]
+    },
+    {
+      "n": "9",
+      "label": "WEEK 9",
+      "code": "WK9",
+      "isPlayoffs": false,
+      "date": "04/16/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-9-TWC-JMF",
+          "away_key": "TWC",
+          "away_name": "The Wrecking Crew",
+          "away_linked": true,
+          "home_key": "JMF",
+          "home_name": "Middle Flippers",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-DSV-SWL",
+          "away_key": "DSV",
+          "away_name": "Death Savers",
+          "away_linked": true,
+          "home_key": "SWL",
+          "home_name": "Specials When Lit",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-CHS-CRA",
+          "away_key": "CHS",
+          "away_name": "Coinhole Surfers",
+          "away_linked": true,
+          "home_key": "CRA",
+          "home_name": "Castle Crashers",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-IBL-PBR",
+          "away_key": "IBL",
+          "away_name": "Iron Bullies",
+          "away_linked": true,
+          "home_key": "PBR",
+          "home_name": "Point Breakers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-NLT-SJK",
+          "away_key": "NLT",
+          "away_name": "Northern Lights",
+          "away_linked": true,
+          "home_key": "SJK",
+          "home_name": "Soda Jerks",
+          "home_linked": true,
+          "venue": {
+            "key": "FTB",
+            "name": "Full Tilt Ballard"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-SCN-SSS",
+          "away_key": "SCN",
+          "away_name": "Seacorns",
+          "away_linked": true,
+          "home_key": "SSS",
+          "home_name": "Silverball Slayers",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-DTP-KNR",
+          "away_key": "DTP",
+          "away_name": "Pinuminati",
+          "away_linked": true,
+          "home_key": "KNR",
+          "home_name": "Knight Riders",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-PGN-LLK",
+          "away_key": "PGN",
+          "away_name": "Pinguins",
+          "away_linked": true,
+          "home_key": "LLK",
+          "home_name": "Lucky Lickers",
+          "home_linked": true,
+          "venue": {
+            "key": "LLQ",
+            "name": "Lucky Liquor"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-CPO-CDC",
+          "away_key": "CPO",
+          "away_name": "Pants Optional",
+          "away_linked": true,
+          "home_key": "CDC",
+          "home_name": "Contras",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-ALU-TBT",
+          "away_key": "ALU",
+          "away_name": "All Locked Up",
+          "away_linked": true,
+          "home_key": "TBT",
+          "home_name": "The B Team",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-FRZ-HHS",
+          "away_key": "FRZ",
+          "away_name": "Drain Freeze",
+          "away_linked": true,
+          "home_key": "HHS",
+          "home_name": "Hellhounds",
+          "home_linked": true,
+          "venue": {
+            "key": "HND",
+            "name": "Hounds Tooth"
+          }
+        },
+        {
+          "match_key": "mnp-9-9-DIH-RMS",
+          "away_key": "DIH",
+          "away_name": "Drain in Hell",
+          "away_linked": true,
+          "home_key": "RMS",
+          "home_name": "Magic Saves",
+          "home_linked": true,
+          "venue": {
+            "key": "RAY",
+            "name": "Raygun Lounge"
+          }
+        }
+      ]
+    },
+    {
+      "n": "10",
+      "label": "WEEK 10",
+      "code": "WK10",
+      "isPlayoffs": false,
+      "date": "04/23/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-10-PBR-NLT",
+          "away_key": "PBR",
+          "away_name": "Point Breakers",
+          "away_linked": true,
+          "home_key": "NLT",
+          "home_name": "Northern Lights",
+          "home_linked": true,
+          "venue": {
+            "key": "OLF",
+            "name": "Olaf's"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-SSS-DSV",
+          "away_key": "SSS",
+          "away_name": "Silverball Slayers",
+          "away_linked": true,
+          "home_key": "DSV",
+          "home_name": "Death Savers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-SJK-CHS",
+          "away_key": "SJK",
+          "away_name": "Soda Jerks",
+          "away_linked": true,
+          "home_key": "CHS",
+          "home_name": "Coinhole Surfers",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-JMF-SCN",
+          "away_key": "JMF",
+          "away_name": "Middle Flippers",
+          "away_linked": true,
+          "home_key": "SCN",
+          "home_name": "Seacorns",
+          "home_linked": true,
+          "venue": {
+            "key": "NAR",
+            "name": "Narwhal/Unicorn"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-CRA-TWC",
+          "away_key": "CRA",
+          "away_name": "Castle Crashers",
+          "away_linked": true,
+          "home_key": "TWC",
+          "home_name": "The Wrecking Crew",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-SWL-IBL",
+          "away_key": "SWL",
+          "away_name": "Specials When Lit",
+          "away_linked": true,
+          "home_key": "IBL",
+          "home_name": "Iron Bullies",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-HHS-ALU",
+          "away_key": "HHS",
+          "away_name": "Hellhounds",
+          "away_linked": true,
+          "home_key": "ALU",
+          "home_name": "All Locked Up",
+          "home_linked": true,
+          "venue": {
+            "key": "VID",
+            "name": "Vidiot"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-LLK-DIH",
+          "away_key": "LLK",
+          "away_name": "Lucky Lickers",
+          "away_linked": true,
+          "home_key": "DIH",
+          "home_name": "Drain in Hell",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-CDC-FRZ",
+          "away_key": "CDC",
+          "away_name": "Contras",
+          "away_linked": true,
+          "home_key": "FRZ",
+          "home_name": "Drain Freeze",
+          "home_linked": true,
+          "venue": {
+            "key": "FCH",
+            "name": "FCH"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-RMS-DTP",
+          "away_key": "RMS",
+          "away_name": "Magic Saves",
+          "away_linked": true,
+          "home_key": "DTP",
+          "home_name": "Pinuminati",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-KNR-CPO",
+          "away_key": "KNR",
+          "away_name": "Knight Riders",
+          "away_linked": true,
+          "home_key": "CPO",
+          "home_name": "Pants Optional",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-9-10-TBT-PGN",
+          "away_key": "TBT",
+          "away_name": "The B Team",
+          "away_linked": true,
+          "home_key": "PGN",
+          "home_name": "Pinguins",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        }
+      ]
+    },
+    {
+      "n": "11",
+      "label": "WEEK 11",
+      "code": "WK11",
+      "isPlayoffs": false,
+      "date": "04/30/2018",
+      "matches": [
+        {
+          "match_key": "mnp-9-11-SCN-CRA",
+          "away_key": "SCN",
+          "away_name": "Seacorns",
+          "away_linked": true,
+          "home_key": "CRA",
+          "home_name": "Castle Crashers",
+          "home_linked": true,
+          "venue": {
+            "key": "ANC",
+            "name": "Another Castle"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-DSV-IBL",
+          "away_key": "DSV",
+          "away_name": "Death Savers",
+          "away_linked": true,
+          "home_key": "IBL",
+          "home_name": "Iron Bullies",
+          "home_linked": true,
+          "venue": {
+            "key": "4BS",
+            "name": "Four B's"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-TWC-SJK",
+          "away_key": "TWC",
+          "away_name": "The Wrecking Crew",
+          "away_linked": true,
+          "home_key": "SJK",
+          "home_name": "Soda Jerks",
+          "home_linked": true,
+          "venue": {
+            "key": "FTB",
+            "name": "Full Tilt Ballard"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-NLT-SWL",
+          "away_key": "NLT",
+          "away_name": "Northern Lights",
+          "away_linked": true,
+          "home_key": "SWL",
+          "home_name": "Specials When Lit",
+          "home_linked": true,
+          "venue": {
+            "key": "8BT",
+            "name": "8-bit Arcade Bar"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-CHS-PBR",
+          "away_key": "CHS",
+          "away_name": "Coinhole Surfers",
+          "away_linked": true,
+          "home_key": "PBR",
+          "home_name": "Point Breakers",
+          "home_linked": true,
+          "venue": {
+            "key": "AAB",
+            "name": "Add-a-Ball"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-SSS-JMF",
+          "away_key": "SSS",
+          "away_name": "Silverball Slayers",
+          "away_linked": true,
+          "home_key": "JMF",
+          "home_name": "Middle Flippers",
+          "home_linked": true,
+          "venue": {
+            "key": "JUP",
+            "name": "Jupiter"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-CPO-RMS",
+          "away_key": "CPO",
+          "away_name": "Pants Optional",
+          "away_linked": true,
+          "home_key": "RMS",
+          "home_name": "Magic Saves",
+          "home_linked": true,
+          "venue": {
+            "key": "RAY",
+            "name": "Raygun Lounge"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-TBT-LLK",
+          "away_key": "TBT",
+          "away_name": "The B Team",
+          "away_linked": true,
+          "home_key": "LLK",
+          "home_name": "Lucky Lickers",
+          "home_linked": true,
+          "venue": {
+            "key": "LLQ",
+            "name": "Lucky Liquor"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-FRZ-KNR",
+          "away_key": "FRZ",
+          "away_name": "Drain Freeze",
+          "away_linked": true,
+          "home_key": "KNR",
+          "home_name": "Knight Riders",
+          "home_linked": true,
+          "venue": {
+            "key": "FFD",
+            "name": "Flip Flip Ding Ding"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-PGN-HHS",
+          "away_key": "PGN",
+          "away_name": "Pinguins",
+          "away_linked": true,
+          "home_key": "HHS",
+          "home_name": "Hellhounds",
+          "home_linked": true,
+          "venue": {
+            "key": "HND",
+            "name": "Hounds Tooth"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-ALU-CDC",
+          "away_key": "ALU",
+          "away_name": "All Locked Up",
+          "away_linked": true,
+          "home_key": "CDC",
+          "home_name": "Contras",
+          "home_linked": true,
+          "venue": {
+            "key": "CDX",
+            "name": "Coindexter's"
+          }
+        },
+        {
+          "match_key": "mnp-9-11-DTP-DIH",
+          "away_key": "DTP",
+          "away_name": "Pinuminati",
+          "away_linked": true,
+          "home_key": "DIH",
+          "home_name": "Drain in Hell",
+          "home_linked": true,
+          "venue": {
+            "key": "SHR",
+            "name": "Shorty's"
+          }
+        }
+      ]
+    }
+  ]
+}
