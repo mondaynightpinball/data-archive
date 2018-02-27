@@ -12,21 +12,21 @@
     "name": "Shorty's",
     "machines": [
       "BM66",
-      "SC",
-      "Jackbox",
-      "TAF",
-      "TOM",
-      "RS",
-      "DialedIn",
-      "Fathom",
-      "Ghost",
-      "SternWars",
       "GOT",
-      "PBR",
+      "DialedIn",
       "Guardians",
       "MM",
+      "SternWars",
       "SS",
-      "Taxi"
+      "SC",
+      "RS",
+      "Taxi",
+      "TOM",
+      "TAF",
+      "Ghost",
+      "Fathom",
+      "PBR",
+      "Jackbox"
     ]
   },
   "away": {
@@ -64,13 +64,13 @@
         "key": "93e9028036ca469b156f477a6aeb1ec28e5cba98",
         "name": "Eric Csakany",
         "sub": false,
-        "num_played": 2
+        "num_played": 3
       },
       {
         "key": "0b806ad6146fa44c2c4c9fc63095eccd09e4c2ad",
         "name": "Jeff debock",
         "sub": false,
-        "num_played": 2
+        "num_played": 3
       },
       {
         "key": "4da2f815d7ba14404d49f7a463ec97621b7bc47a",
@@ -127,7 +127,7 @@
         "key": "8949c3a67fec8f2a1a3b1ce1bc4ba2e73cb4530f",
         "name": "Andy Burton",
         "sub": false,
-        "num_played": 2
+        "num_played": 3
       },
       {
         "key": "5f8224cb8440f99b5b8e7f607ea2b66a1a22c1a6",
@@ -157,7 +157,7 @@
         "key": "2209f79cba4fd0d15ffd0895076093a6218d49a3",
         "name": "Heather Loudon",
         "sub": false,
-        "num_played": 2
+        "num_played": 3
       },
       {
         "key": "1320a51dd1fcd49837d2e048fa702d892e563b93",
@@ -692,7 +692,11 @@
           "home_points": 1
         }
       ],
-      "done": true
+      "done": true,
+      "left_confirmed": {
+        "by": "Brian Chesbrough",
+        "at": 1518556614057
+      }
     }
   ],
   "players": []

@@ -6,24 +6,24 @@
   "round": 4,
   "create_at": 1518490753432,
   "date": "02/12/2018",
-  "state": "playing",
+  "state": "complete",
   "venue": {
     "key": "4BS",
     "name": "Four B's",
     "machines": [
       "AustinPowers",
-      "Congo",
-      "T2",
-      "Metallica",
-      "NR",
-      "EBD",
-      "BSD",
       "TSPP",
-      "Star Wars Stern",
-      "Scorpion",
+      "NR",
       "Playboy",
-      "GLizard",
-      "Fish Tales"
+      "T2",
+      "SternWars",
+      "Congo",
+      "FT",
+      "Metallica",
+      "BSD",
+      "EBD",
+      "Scorpion",
+      "GLizard"
     ]
   },
   "away": {
@@ -482,7 +482,7 @@
         },
         {
           "n": 7,
-          "machine": "Star Wars Stern",
+          "machine": "SternWars",
           "player_1": "2d9d0cc74113cd26dc57032cf2782fed04b50fa3",
           "player_2": "472a650f13264e5d09ebe376d4b38d1df51016bd",
           "done": true,
@@ -508,15 +508,7 @@
           "home_points": 3
         }
       ],
-      "done": true,
-      "left_confirmed": {
-        "by": "Blake Mitchell",
-        "at": 1518503834362
-      },
-      "right_confirmed": {
-        "by": "Megan Czahar",
-        "at": 1518503987565
-      }
+      "done": true
     },
     {
       "n": 3,
@@ -792,7 +784,7 @@
         },
         {
           "n": 3,
-          "machine": "Star Wars Stern",
+          "machine": "SternWars",
           "player_1": "2d9d0cc74113cd26dc57032cf2782fed04b50fa3",
           "player_3": "a0c8ea493edff584f719dfeafb2474d9b2cd357b",
           "player_2": "472a650f13264e5d09ebe376d4b38d1df51016bd",
@@ -825,7 +817,7 @@
         },
         {
           "n": 4,
-          "machine": "Fish Tales",
+          "machine": "FT",
           "player_1": "ad017202dcdd267369c76b22b049ae5f7843f5e3",
           "player_3": "14ca720acc6a110a0aede4417bdccbd293700d49",
           "player_2": "cf12dae7d17ddb518bbc923e25344df251d8b308",
@@ -857,11 +849,7 @@
           "home_points": 5
         }
       ],
-      "done": true,
-      "left_confirmed": {
-        "by": "Blake Mitchell",
-        "at": 1518511570355
-      }
+      "done": true
     }
   ],
   "players": []
