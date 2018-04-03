@@ -12,18 +12,18 @@
     "name": "Four B's",
     "machines": [
       "Scorpion",
-      "BSD",
+      "PlayboyDE",
       "FT",
-      "Metallica ",
+      "RFM",
       "GLizard",
-      "Playboy (Bally)",
-      "Congo ",
-      "8 Ball Deluxe ",
-      "Revenge From Mars",
-      "Playboy (Data East)",
+      "Playboy",
       "TSPP",
+      "BSD",
       "T2",
-      "SternWars"
+      "SternWars",
+      "Metallica",
+      "EBD",
+      "Congo"
     ]
   },
   "away": {
@@ -283,7 +283,7 @@
         },
         {
           "n": 4,
-          "machine": "Metallica ",
+          "machine": "Metallica",
           "player_1": "b66f2c7402eda5537f2f97fe77507c4a42ea8f50",
           "player_3": "77cad17e0c78ed82233741a7c04eabe56edc487c",
           "player_2": "c9ca38fd9bf957925a36b9b7f58da586e85f6c04",
@@ -315,22 +315,14 @@
           "home_points": 2
         }
       ],
-      "done": true,
-      "right_confirmed": {
-        "by": "Blake Mitchell",
-        "at": 1520916374408
-      },
-      "left_confirmed": {
-        "by": "Daniel Reddin",
-        "at": 1520916481997
-      }
+      "done": true
     },
     {
       "n": 2,
       "games": [
         {
           "n": 1,
-          "machine": "8 Ball Deluxe ",
+          "machine": "EBD",
           "player_1": "c9ca38fd9bf957925a36b9b7f58da586e85f6c04",
           "player_2": "b66f2c7402eda5537f2f97fe77507c4a42ea8f50",
           "done": true,
@@ -384,7 +376,7 @@
         },
         {
           "n": 3,
-          "machine": "Playboy (Bally)",
+          "machine": "Playboy",
           "player_1": "91f0ebb43418052f399e1d74648c3ebf7648d2a3",
           "player_2": "ac52dfd060971f68df6767c5944942b60f8aae4b",
           "done": true,
@@ -428,7 +420,7 @@
         },
         {
           "n": 5,
-          "machine": "Revenge From Mars",
+          "machine": "RFM",
           "player_1": "6dc8de0a68ce4cf115e324990556c358f7c28bd0",
           "player_2": "e22b564ab52e7ed5ab1d10e710ac99a7be4f70d6",
           "score_1": 61101010,
@@ -498,15 +490,7 @@
           "home_points": 3
         }
       ],
-      "done": true,
-      "left_confirmed": {
-        "by": "Tyler Morgan",
-        "at": 1520918245090
-      },
-      "right_confirmed": {
-        "by": "Jay Sweeney",
-        "at": 1520918304091
-      }
+      "done": true
     },
     {
       "n": 3,
@@ -514,7 +498,7 @@
         {
           "n": 1,
           "done": true,
-          "machine": "Revenge From Mars",
+          "machine": "RFM",
           "player_1": "e22b564ab52e7ed5ab1d10e710ac99a7be4f70d6",
           "player_2": "6dc8de0a68ce4cf115e324990556c358f7c28bd0",
           "score_1": 14920950,
@@ -585,7 +569,7 @@
         {
           "n": 4,
           "done": true,
-          "machine": "Playboy (Data East)",
+          "machine": "PlayboyDE",
           "player_1": "b66f2c7402eda5537f2f97fe77507c4a42ea8f50",
           "player_2": "a0c8ea493edff584f719dfeafb2474d9b2cd357b",
           "photos": [
@@ -639,7 +623,7 @@
         {
           "n": 6,
           "done": true,
-          "machine": "Metallica ",
+          "machine": "Metallica",
           "player_1": "c86613dd5dbd06945364007d009f5a01162d17d4",
           "player_2": "9925b8ad4e540a416d8ac9365c1cde07e979bd45",
           "score_1": 19387180,
@@ -681,15 +665,7 @@
           "home_points": 2
         }
       ],
-      "done": true,
-      "right_confirmed": {
-        "by": "Blake Mitchell",
-        "at": 1520920885857
-      },
-      "left_confirmed": {
-        "by": "Daniel Reddin",
-        "at": 1520921065284
-      }
+      "done": true
     },
     {
       "n": 4,
@@ -729,7 +705,7 @@
         },
         {
           "n": 2,
-          "machine": "8 Ball Deluxe ",
+          "machine": "EBD",
           "player_1": "c9ca38fd9bf957925a36b9b7f58da586e85f6c04",
           "player_3": "a0c8ea493edff584f719dfeafb2474d9b2cd357b",
           "player_2": "d35dde89a3e3be135378e6fad33b3cd3746c1861",
@@ -740,9 +716,9 @@
               "uploaded_by": "f6af4bc664f0ed90f8cf0fe337403954fa2d6b5f",
               "url": "/pics/131db886ce9234a038034a498a4677c08d564a88",
               "rot": 0,
-              "scale": 3.2430475724071206,
-              "dx": -460,
-              "dy": -412
+              "scale": 1.4295075676800988,
+              "dx": -137,
+              "dy": -151
             }
           ],
           "score_1": 686150,
@@ -762,7 +738,7 @@
         },
         {
           "n": 3,
-          "machine": "Playboy (Bally)",
+          "machine": "Playboy",
           "player_1": "91f0ebb43418052f399e1d74648c3ebf7648d2a3",
           "player_3": "2d9d0cc74113cd26dc57032cf2782fed04b50fa3",
           "player_2": "e22b564ab52e7ed5ab1d10e710ac99a7be4f70d6",
@@ -795,7 +771,7 @@
         },
         {
           "n": 4,
-          "machine": "Metallica ",
+          "machine": "Metallica",
           "player_1": "14ca720acc6a110a0aede4417bdccbd293700d49",
           "player_3": "9a909748c07f935becb66f2c715000b9a0c7111f",
           "player_2": "d5230ad5c3d4016f9b1696f41c00e3887c3d6d7a",
@@ -827,15 +803,7 @@
           "home_points": 2
         }
       ],
-      "done": true,
-      "left_confirmed": {
-        "by": "Tyler Morgan",
-        "at": 1520924458012
-      },
-      "right_confirmed": {
-        "by": "Daniel Reddin",
-        "at": 1520924463501
-      }
+      "done": true
     }
   ],
   "players": []
