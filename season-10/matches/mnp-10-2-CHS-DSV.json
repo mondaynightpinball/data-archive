@@ -32,6 +32,7 @@
   },
   "away": {
     "name": "Coinhole Surfers",
+    "key": "CHS",
     "captains": [
       {
         "key": "79d3ec27db9b3c49e0ef71c6253baa94ac456a41",
@@ -104,12 +105,12 @@
         "num_played": 3
       }
     ],
-    "key": "CHS",
     "ready": false,
     "confirmed": false
   },
   "home": {
     "name": "Death Savers",
+    "key": "DSV",
     "captains": [
       {
         "key": "80f27879534ce9dc61070ae438d97d1a2940ee7e",
@@ -182,7 +183,6 @@
         "num_played": 3
       }
     ],
-    "key": "DSV",
     "ready": true,
     "confirmed": {
       "by": "Ramsey Sierra",
@@ -919,10 +919,10 @@
         {
           "n": 2,
           "machine": "SS",
-          "player_2": "bbccbd32d875698315ecc25b97ca884463293ad7",
-          "player_4": "79d3ec27db9b3c49e0ef71c6253baa94ac456a41",
-          "player_1": "80f27879534ce9dc61070ae438d97d1a2940ee7e",
-          "player_3": "2e4a85dadf699d10ebd31214997263b1af3e5dff",
+          "player_2": "80f27879534ce9dc61070ae438d97d1a2940ee7e",
+          "player_4": "2e4a85dadf699d10ebd31214997263b1af3e5dff",
+          "player_1": "bbccbd32d875698315ecc25b97ca884463293ad7",
+          "player_3": "79d3ec27db9b3c49e0ef71c6253baa94ac456a41",
           "done": true,
           "photos": [
             {
@@ -934,24 +934,24 @@
               "dy": -127
             }
           ],
-          "score_1": 818320,
-          "score_2": 2132770,
-          "points_1": 0,
-          "points_2": 0.333,
-          "points_13": 0,
-          "points_24": 0.333,
-          "score_13": 818320,
-          "score_24": 2132770,
+          "score_1": 2132770,
+          "score_2": 818320,
+          "points_1": 0.333,
+          "points_2": 0,
+          "points_13": 0.333,
+          "points_24": 0,
+          "score_13": 2132770,
+          "score_24": 818320,
           "away_points": 0.333,
           "home_points": 0
         },
         {
           "n": 3,
           "machine": "EBD",
-          "player_2": "02f248b94820fe6eebaea770763f1d9d6f63c35a",
-          "player_4": "1cdbeef43cd6c9f04116b68d4b7bd79221c094f0",
-          "player_1": "94cb67cb09f7ffbc43ba487f63f80706c2b9f5c9",
-          "player_3": "28509d4e506e6916387382a9db094a4b72dafe5d",
+          "player_2": "94cb67cb09f7ffbc43ba487f63f80706c2b9f5c9",
+          "player_4": "28509d4e506e6916387382a9db094a4b72dafe5d",
+          "player_1": "02f248b94820fe6eebaea770763f1d9d6f63c35a",
+          "player_3": "1cdbeef43cd6c9f04116b68d4b7bd79221c094f0",
           "done": true,
           "photos": [
             {
@@ -963,14 +963,14 @@
               "dy": -260
             }
           ],
-          "score_1": 870860,
-          "score_2": 633090,
-          "points_1": 0.333,
-          "points_2": 0,
-          "points_13": 0.333,
-          "points_24": 0,
-          "score_13": 870860,
-          "score_24": 633090,
+          "score_1": 633090,
+          "score_2": 870860,
+          "points_1": 0,
+          "points_2": 0.333,
+          "points_13": 0,
+          "points_24": 0.333,
+          "score_13": 633090,
+          "score_24": 870860,
           "away_points": 0,
           "home_points": 0.333
         }

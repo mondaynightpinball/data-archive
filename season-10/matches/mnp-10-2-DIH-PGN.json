@@ -40,6 +40,7 @@
   },
   "away": {
     "name": "Drain in Hell",
+    "key": "DIH",
     "captains": [
       {
         "key": "77cad17e0c78ed82233741a7c04eabe56edc487c",
@@ -112,7 +113,6 @@
         "num_played": 3
       }
     ],
-    "key": "DIH",
     "ready": true,
     "confirmed": {
       "by": "Philip Joupperi",
@@ -121,6 +121,7 @@
   },
   "home": {
     "name": "Pinguins",
+    "key": "PGN",
     "captains": [
       {
         "key": "83e8a0b76d54b7af6604485d30b5895631383c7d",
@@ -193,7 +194,6 @@
         "num_played": 3
       }
     ],
-    "key": "PGN",
     "ready": true,
     "confirmed": {
       "by": "Jay Sweeney",
@@ -934,10 +934,10 @@
         {
           "n": 2,
           "machine": "AFM",
-          "player_2": "1284ab39128365105708b79f984b5d9cecdcf359",
-          "player_4": "77cad17e0c78ed82233741a7c04eabe56edc487c",
-          "player_1": "809cf410bdd4c65cdf097651f4ceb495ea5e54cd",
-          "player_3": "4eabe870936a978f86b1bbbe4e1972f226646fde",
+          "player_2": "809cf410bdd4c65cdf097651f4ceb495ea5e54cd",
+          "player_4": "4eabe870936a978f86b1bbbe4e1972f226646fde",
+          "player_1": "1284ab39128365105708b79f984b5d9cecdcf359",
+          "player_3": "77cad17e0c78ed82233741a7c04eabe56edc487c",
           "done": true,
           "photos": [
             {
@@ -949,24 +949,24 @@
               "dy": 0
             }
           ],
-          "score_1": 501960810,
-          "score_2": 877993200,
-          "points_1": 0,
-          "points_2": 0.333,
-          "points_13": 0,
-          "points_24": 0.333,
-          "score_13": 501960810,
-          "score_24": 877993200,
+          "score_1": 877993200,
+          "score_2": 501960810,
+          "points_1": 0.333,
+          "points_2": 0,
+          "points_13": 0.333,
+          "points_24": 0,
+          "score_13": 877993200,
+          "score_24": 501960810,
           "away_points": 0.333,
           "home_points": 0
         },
         {
           "n": 3,
           "machine": "MM",
-          "player_2": "d157842a2364337acb3f73a43eea91c954ff19c3",
-          "player_4": "6a519bee210d3348f57b99146a7863f75e87a854",
-          "player_1": "bc50def46047fdf675da308c30651f1f67b69863",
-          "player_3": "612405390ffa1a375a8f311517c741d5c60956d2",
+          "player_2": "bc50def46047fdf675da308c30651f1f67b69863",
+          "player_4": "612405390ffa1a375a8f311517c741d5c60956d2",
+          "player_1": "d157842a2364337acb3f73a43eea91c954ff19c3",
+          "player_3": "6a519bee210d3348f57b99146a7863f75e87a854",
           "photos": [
             {
               "uploaded_by": "d157842a2364337acb3f73a43eea91c954ff19c3",
@@ -977,15 +977,15 @@
               "dy": -193
             }
           ],
-          "score_1": 4320100,
-          "score_2": 2302430,
+          "score_1": 2302430,
+          "score_2": 4320100,
           "done": true,
-          "points_1": 0.333,
-          "points_2": 0,
-          "points_13": 0.333,
-          "points_24": 0,
-          "score_13": 4320100,
-          "score_24": 2302430,
+          "points_1": 0,
+          "points_2": 0.333,
+          "points_13": 0,
+          "points_24": 0.333,
+          "score_13": 2302430,
+          "score_24": 4320100,
           "away_points": 0,
           "home_points": 0.333
         }
