@@ -2,19 +2,17 @@
   "FTB": {
     "name": "Full Tilt Ballard",
     "machines": [
-      "CFTBL",
-      "GOT",
       "Indy500",
       "IronMan",
       "Jackbot",
       "MM",
-      "POTC",
       "SternTrek",
       "TAF",
       "TSPP",
       "WOF",
       "T2",
-      "RFM"
+      "Skindy",
+      "SS"
     ],
     "key": "FTB",
     "address": "5453 Leary Ave NW, Seattle",
@@ -45,7 +43,6 @@
     "name": "Shorty's",
     "machines": [
       "BM66",
-      "Ghost",
       "Jackbox",
       "RS",
       "SC",
@@ -54,12 +51,13 @@
       "TOM",
       "Fathom",
       "SternWars",
-      "Guardians",
       "POTCJJ",
       "IronMaiden",
       "TNA",
       "TZ",
-      "DP"
+      "DP",
+      "BeamOn",
+      "Beatles"
     ],
     "key": "SHR",
     "address": "2222 2nd Ave, Seattle",
@@ -115,12 +113,12 @@
       "WCS",
       "Whitewater",
       "BadCats",
-      "SS",
-      "Houdini",
       "TNA",
       "ChampPub",
       "IronMaiden",
-      "Jackbot"
+      "Jackbot",
+      "Dragonfist",
+      "Guardians"
     ],
     "key": "AAB",
     "address": "315 N 36th St #2b, Seattle",
@@ -188,7 +186,6 @@
       "RollerCoaster",
       "STTNG",
       "TAF",
-      "TMNT",
       "TWD",
       "TZ",
       "Troopers",
@@ -201,7 +198,9 @@
       "Tron",
       "IronMaiden",
       "LOTR",
-      "TNA"
+      "TNA",
+      "Torpedo",
+      "Ghost"
     ],
     "key": "FFD",
     "address": "6012 12th Ave S, Seattle",
@@ -214,7 +213,6 @@
       "BM66",
       "CFTBL",
       "GOT",
-      "Ghost",
       "IronMan",
       "MM",
       "Monopoly",
@@ -222,7 +220,6 @@
       "Spiderman",
       "TOM",
       "TOTAN",
-      "TWD",
       "TZ",
       "Indy",
       "SternWars",
@@ -233,11 +230,13 @@
       "SternTrek",
       "StarWars",
       "TAF",
-      "Catacomb",
       "Houdini",
       "DP",
       "IronMaiden",
-      "MarioMushroom"
+      "MarioMushroom",
+      "Beatles",
+      "Cyclone",
+      "Munsters"
     ],
     "key": "8BT",
     "address": "916 S. 3rd st, Renton"
@@ -245,14 +244,14 @@
   "LLQ": {
     "name": "Lucky Liquor",
     "machines": [
-      "Avatar",
       "FH",
       "NBA",
       "RFM",
       "Spiderman",
       "TOM",
-      "KoS",
-      "MB"
+      "MB",
+      "PBR",
+      "TWD"
     ],
     "key": "LLQ",
     "address": "10325 E Marginal Way S, Tukwila"
@@ -261,12 +260,9 @@
     "name": "Another Castle",
     "machines": [
       "8Ball",
-      "StarWars",
       "Whitewater",
       "SternWars",
       "BM66",
-      "LOTR",
-      "SternTrek",
       "AFM",
       "TFTC",
       "TAF",
@@ -278,7 +274,10 @@
       "IronMaiden",
       "TSPP",
       "Elvira",
-      "Spiderman"
+      "Spiderman",
+      "JD",
+      "Monopoly",
+      "Troopers"
     ],
     "key": "ANC",
     "address": "23303 Highway 99, Suite A, Edmonds"
@@ -351,17 +350,18 @@
     "machines": [
       "AFM",
       "CA",
-      "FT",
-      "TSPP",
       "Skindy",
-      "IronMaiden",
       "Arena",
       "GLizard",
-      "Sharpshooter",
       "SpaceShuttle",
-      "Force2",
       "Goldeneye",
-      "NGG"
+      "ChampPub",
+      "DP",
+      "Guardians",
+      "Ghost",
+      "SternWars",
+      "NBAFB",
+      "RollerCoaster"
     ]
   },
   "RAY": {
@@ -376,7 +376,7 @@
       "Taxi",
       "Ghost",
       "SternWars",
-      "Gaurdians",
+      "Guardians",
       "Pinbot",
       "TSPP"
     ]
@@ -396,7 +396,6 @@
       "NGG",
       "Paragon",
       "TWD",
-      "Whitewater",
       "MM",
       "SixMil",
       "FT",
@@ -407,14 +406,14 @@
       "T3",
       "Spiderman",
       "AFM",
-      "RollerGames",
       "TZ",
       "Harlem",
       "Tron",
       "Getaway",
-      "RBION",
       "IronMaiden",
-      "Congo"
+      "Congo",
+      "CSI",
+      "Sopranos"
     ]
   },
   "VID": {
@@ -422,7 +421,6 @@
     "name": "Vidiot",
     "machines": [
       "Aerosmith",
-      "Freddy",
       "Ghost",
       "Junkyard",
       "RB",
@@ -434,7 +432,9 @@
       "FT",
       "LOTR",
       "IronMaiden",
-      "TFTC"
+      "TFTC",
+      "DP",
+      "MB"
     ]
   },
   "FCH": {
@@ -459,14 +459,14 @@
       "FH",
       "LOTR",
       "MM",
-      "StarWarsE1",
       "T2",
       "Skateball",
-      "SS",
       "BK2K",
       "IronMaiden",
       "Metallica",
-      "TWD"
+      "TWD",
+      "CFTBL",
+      "POTC"
     ]
   },
   "IBX": {
@@ -475,24 +475,30 @@
     "machines": [
       "TBL",
       "Ghost",
-      "TZ",
-      "XMen",
       "Spiderman",
       "Jackbot",
-      "AFM",
-      "DP",
       "TAF",
       "Transporter",
-      "StrangeScience",
       "NGG",
-      "NBAFB",
-      "Elvira",
-      "LW3",
-      "Whitewater",
       "SouthPark",
-      "Breakshot",
-      "MM",
-      "PinballMagic"
+      "Congo",
+      "DM",
+      "DollyParton",
+      "Flintstones",
+      "Getaway",
+      "GLizard",
+      "HighRollerCasino",
+      "Lightning",
+      "Frankenstein",
+      "Metallica",
+      "Munsters",
+      "NR",
+      "NoFear",
+      "Popeye",
+      "RS",
+      "T2",
+      "WCS",
+      "AFM"
     ]
   },
   "COP": {
