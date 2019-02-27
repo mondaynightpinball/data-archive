@@ -11,13 +11,13 @@
     "key": "RAY",
     "name": "Raygun Lounge",
     "machines": [
-      "Whirlwind",
-      "JM",
-      "Ghost",
-      "SternWars",
-      "Guardians",
+      "Taxi",
       "Pinbot",
-      "Taxi"
+      "Guardians",
+      "SternWars",
+      "Ghost",
+      "JM",
+      "Whirlwind"
     ]
   },
   "away": {
@@ -98,18 +98,22 @@
         "IPR": 3
       },
       {
+        "key": "8deada172f056d821009ebc361b6f1c71bf912af",
+        "name": "Shamir Shummee",
+        "sub": true,
+        "IPR": 0,
+        "num_played": 2
+      },
+      {
         "key": "b529c9375b69feb37ea26cf2d31ccfea4ba540fd",
         "name": "Shumi",
         "sub": true,
         "IPR": 0,
-        "num_played": 3
+        "num_played": 1
       }
     ],
-    "ready": true,
-    "confirmed": {
-      "by": "Michael Zuino",
-      "at": 1551156394980
-    }
+    "ready": false,
+    "confirmed": false
   },
   "home": {
     "name": "Magic Saves",
@@ -464,7 +468,7 @@
           "n": 5,
           "machine": "Ghost",
           "player_1": "8573893343d69ff19365da4f9fc54e681c48ecfc",
-          "player_2": "b529c9375b69feb37ea26cf2d31ccfea4ba540fd",
+          "player_2": "8deada172f056d821009ebc361b6f1c71bf912af",
           "done": true,
           "photos": [
             {
@@ -542,15 +546,7 @@
           "home_points": 1
         }
       ],
-      "done": true,
-      "left_confirmed": {
-        "by": "Michael Zuino",
-        "at": 1551161753475
-      },
-      "right_confirmed": {
-        "by": "Randall Olson",
-        "at": 1551161772476
-      }
+      "done": true
     },
     {
       "n": 3,
@@ -639,7 +635,7 @@
         {
           "n": 4,
           "machine": "SternWars",
-          "player_1": "b529c9375b69feb37ea26cf2d31ccfea4ba540fd",
+          "player_1": "8deada172f056d821009ebc361b6f1c71bf912af",
           "player_2": "12c83d4edc4f3bed5fc79ed7ecc61fa166b1eb9a",
           "done": true,
           "score_1": 259990960,
@@ -745,15 +741,7 @@
           "home_points": 2
         }
       ],
-      "done": true,
-      "right_confirmed": {
-        "by": "Michael Zuino",
-        "at": 1551164507947
-      },
-      "left_confirmed": {
-        "by": "Rick Simpson",
-        "at": 1551164529365
-      }
+      "done": true
     },
     {
       "n": 4,
@@ -763,7 +751,7 @@
           "machine": "SternWars",
           "player_1": "0a4f179c499408191b5982c4b1a1ea3bccf02457",
           "player_3": "12c83d4edc4f3bed5fc79ed7ecc61fa166b1eb9a",
-          "player_2": "b529c9375b69feb37ea26cf2d31ccfea4ba540fd",
+          "player_2": "8deada172f056d821009ebc361b6f1c71bf912af",
           "player_4": "bb95ce373c39640f64e21ddea6a8a1c43a410866",
           "done": true,
           "photos": [
@@ -891,11 +879,7 @@
           "home_points": 4
         }
       ],
-      "done": true,
-      "left_confirmed": {
-        "by": "Michael Zuino",
-        "at": 1551166598904
-      }
+      "done": true
     }
   ],
   "players": []
