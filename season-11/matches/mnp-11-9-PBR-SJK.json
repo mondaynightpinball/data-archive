@@ -1,0 +1,906 @@
+{
+  "key": "mnp-11-9-PBR-SJK",
+  "name": "WK9 PBR @ SJK",
+  "type": "manual",
+  "week": "9",
+  "round": 4,
+  "create_at": 1555339386730,
+  "date": "04/15/2019",
+  "state": "playing",
+  "venue": {
+    "key": "FTB",
+    "name": "Full Tilt Ballard",
+    "machines": [
+      "Indy500",
+      "Jackbot",
+      "MM",
+      "SternTrek",
+      "IronMan",
+      "SS",
+      "TAF",
+      "TSPP",
+      "WOF",
+      "T2",
+      "Skindy"
+    ]
+  },
+  "away": {
+    "name": "Point Breakers",
+    "key": "PBR",
+    "captains": [
+      {
+        "key": "98326b585dcf615cb04751c475b9c754240a84bd",
+        "name": "Hayden McCabe"
+      },
+      {
+        "key": "7ee8412002913a652b06f39c31474dcf2c18cdf6",
+        "name": "Clayton Stetz"
+      }
+    ],
+    "lineup": [
+      {
+        "key": "14ca720acc6a110a0aede4417bdccbd293700d49",
+        "name": "Blake Mitchell",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 5
+      },
+      {
+        "key": "ace784f327f66c086f5246dbb25e7f2eed9a0c68",
+        "name": "Brian Hyder",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 5
+      },
+      {
+        "key": "7ee8412002913a652b06f39c31474dcf2c18cdf6",
+        "name": "Clayton Stetz",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 3
+      },
+      {
+        "key": "98326b585dcf615cb04751c475b9c754240a84bd",
+        "name": "Hayden McCabe",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 3
+      },
+      {
+        "key": "79d3ec27db9b3c49e0ef71c6253baa94ac456a41",
+        "name": "Jesse Mullene",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 4
+      },
+      {
+        "key": "c903d57c25e79232fa83c3bb417fa062404ed063",
+        "name": "Josh Hornbaker",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 3
+      },
+      {
+        "key": "84b5c8062274c3952b6113647c5fab24ae74835e",
+        "name": "Malcolm Roberts",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 3
+      },
+      {
+        "key": "8793071958c4f731d401b75239d8e5171f6b9464",
+        "name": "Matt Bollinger",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 5
+      },
+      {
+        "key": "c33f161f6d9d27d4f01bbbf0b5fce77bea754652",
+        "name": "Matt Watts",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 4
+      },
+      {
+        "key": "01d5567496c6c4663cb317b4772e1f0b1598e670",
+        "name": "Michael Ulmen",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 3
+      }
+    ],
+    "ready": true,
+    "confirmed": {
+      "by": "Bobby Conover",
+      "at": 1555386618146
+    }
+  },
+  "home": {
+    "name": "Soda Jerks",
+    "key": "SJK",
+    "captains": [
+      {
+        "key": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+        "name": "Bobby Conover"
+      },
+      {
+        "key": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+        "name": "Raymond Davidson"
+      }
+    ],
+    "lineup": [
+      {
+        "key": "d4739811f0187b58e528e37ffde835f1e3a2da22",
+        "name": "Allison McClure",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 4
+      },
+      {
+        "key": "db83a4ca4473a81dba80c8ba2e373372a9170040",
+        "name": "Ari Golding",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 3
+      },
+      {
+        "key": "65ff360c0605503d17618e5e55d243080beaead2",
+        "name": "Austin Arlitt",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 4
+      },
+      {
+        "key": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+        "name": "Bobby Conover",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 6
+      },
+      {
+        "key": "12c97fbce170d8210570b5f669c1030961f21322",
+        "name": "Danny Rashid",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 4
+      },
+      {
+        "key": "231c4e4bb35f8545b18c8a82bebc323ce29e0958",
+        "name": "John McAllister",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 5
+      },
+      {
+        "key": "e288cd121de02bcd02c337cb18c33ff2c7841ce9",
+        "name": "Josh Free",
+        "sub": true,
+        "IPR": 1,
+        "num_played": 3
+      },
+      {
+        "key": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+        "name": "Matt Galbraith",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 5
+      },
+      {
+        "key": "691e12eb96419ef5ed3c7733152c4097c590cdec",
+        "name": "Phil Piwonka",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 3
+      },
+      {
+        "key": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+        "name": "Raymond Davidson",
+        "sub": false,
+        "num_played": 3,
+        "IPR": 6
+      }
+    ],
+    "ready": true,
+    "confirmed": {
+      "by": "Hayden McCabe",
+      "at": 1555386805057
+    }
+  },
+  "rounds": [
+    {
+      "n": 1,
+      "games": [
+        {
+          "n": 1,
+          "done": true,
+          "machine": "SS",
+          "player_1": "79d3ec27db9b3c49e0ef71c6253baa94ac456a41",
+          "player_3": "98326b585dcf615cb04751c475b9c754240a84bd",
+          "player_2": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+          "player_4": "db83a4ca4473a81dba80c8ba2e373372a9170040",
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/11d328e33c9083b6e7b0c00df4bbb4a8f0555b8b",
+              "rot": 0,
+              "scale": 1.578638831683577,
+              "dx": -197,
+              "dy": -157
+            }
+          ],
+          "score_1": 12320580,
+          "score_2": 11311530,
+          "score_3": 5581340,
+          "score_4": 13731930,
+          "points_1": 1,
+          "points_2": 1.5,
+          "points_3": 0,
+          "points_4": 2.5,
+          "score_13": 17901920,
+          "score_24": 25043460,
+          "points_13": 1,
+          "points_24": 4,
+          "away_points": 1,
+          "home_points": 4
+        },
+        {
+          "n": 2,
+          "done": true,
+          "machine": "TAF",
+          "player_1": "01d5567496c6c4663cb317b4772e1f0b1598e670",
+          "player_3": "84b5c8062274c3952b6113647c5fab24ae74835e",
+          "player_2": "231c4e4bb35f8545b18c8a82bebc323ce29e0958",
+          "player_4": "d4739811f0187b58e528e37ffde835f1e3a2da22",
+          "photos": [
+            {
+              "uploaded_by": "01d5567496c6c4663cb317b4772e1f0b1598e670",
+              "url": "/pics/0d6e78e6ae4b525f32ffc9eb0ceee87328a5020a",
+              "rot": 0,
+              "scale": 1,
+              "dx": -20,
+              "dy": -99
+            }
+          ],
+          "score_1": 19831730,
+          "score_2": 30098530,
+          "score_3": 104222620,
+          "score_4": 85609770,
+          "points_1": 0.5,
+          "points_2": 1,
+          "points_3": 2.5,
+          "points_4": 1,
+          "score_13": 124054350,
+          "score_24": 115708300,
+          "points_13": 3,
+          "points_24": 2,
+          "away_points": 3,
+          "home_points": 2
+        },
+        {
+          "n": 3,
+          "done": true,
+          "machine": "MM",
+          "player_1": "c33f161f6d9d27d4f01bbbf0b5fce77bea754652",
+          "player_3": "14ca720acc6a110a0aede4417bdccbd293700d49",
+          "player_2": "12c97fbce170d8210570b5f669c1030961f21322",
+          "player_4": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+          "photos": [
+            {
+              "uploaded_by": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+              "url": "/pics/24d489d5b80cb0e8d3dfce13cc0a620dd628a271",
+              "rot": 0,
+              "scale": 1.5364925852656115,
+              "dx": -214,
+              "dy": -162
+            }
+          ],
+          "score_1": 10771980,
+          "score_2": 26201910,
+          "score_3": 21790180,
+          "score_4": 19270580,
+          "points_1": 0,
+          "points_2": 2.5,
+          "points_3": 1,
+          "points_4": 1.5,
+          "score_13": 32562160,
+          "score_24": 45472490,
+          "points_13": 1,
+          "points_24": 4,
+          "away_points": 1,
+          "home_points": 4
+        },
+        {
+          "n": 4,
+          "done": true,
+          "machine": "Jackbot",
+          "player_1": "7ee8412002913a652b06f39c31474dcf2c18cdf6",
+          "player_3": "8793071958c4f731d401b75239d8e5171f6b9464",
+          "player_2": "691e12eb96419ef5ed3c7733152c4097c590cdec",
+          "player_4": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+          "photos": [
+            {
+              "uploaded_by": "65ff360c0605503d17618e5e55d243080beaead2",
+              "url": "/pics/5220d4140040b7a179e4b72d19c5eeee9836f441",
+              "rot": 0,
+              "scale": 1.858588468887677,
+              "dx": -238,
+              "dy": -88
+            }
+          ],
+          "score_1": 1640917990,
+          "score_2": 562961840,
+          "score_3": 857658320,
+          "score_4": 2278014630,
+          "points_1": 1,
+          "points_2": 0.5,
+          "points_3": 1,
+          "points_4": 2.5,
+          "score_13": 2498576310,
+          "score_24": 2840976470,
+          "points_13": 2,
+          "points_24": 3,
+          "away_points": 2,
+          "home_points": 3
+        }
+      ],
+      "done": true,
+      "left_confirmed": {
+        "by": "Hayden McCabe",
+        "at": 1555389955029
+      },
+      "right_confirmed": {
+        "by": "Bobby Conover",
+        "at": 1555389956717
+      }
+    },
+    {
+      "n": 2,
+      "games": [
+        {
+          "n": 1,
+          "machine": "SternTrek",
+          "player_1": "65ff360c0605503d17618e5e55d243080beaead2",
+          "player_2": "c903d57c25e79232fa83c3bb417fa062404ed063",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "c903d57c25e79232fa83c3bb417fa062404ed063",
+              "url": "/pics/0b4ca15d934a340edb97b44495509c25fc0017de",
+              "rot": 90,
+              "scale": 1.8717393595917373,
+              "dx": 107,
+              "dy": -122
+            }
+          ],
+          "score_1": 32716610,
+          "score_2": 46342280,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 32716610,
+          "score_24": 46342280,
+          "away_points": 2,
+          "home_points": 1
+        },
+        {
+          "n": 2,
+          "machine": "WOF",
+          "player_1": "e288cd121de02bcd02c337cb18c33ff2c7841ce9",
+          "player_2": "98326b585dcf615cb04751c475b9c754240a84bd",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "98326b585dcf615cb04751c475b9c754240a84bd",
+              "url": "/pics/afa2a07409068e230c0435e73b8e4fa610d5b913",
+              "rot": 180,
+              "scale": 2.260422339467125,
+              "dx": -79,
+              "dy": -103
+            }
+          ],
+          "score_1": 19394460,
+          "score_2": 42185060,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 19394460,
+          "score_24": 42185060,
+          "away_points": 3,
+          "home_points": 0
+        },
+        {
+          "n": 3,
+          "machine": "Indy500",
+          "player_1": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+          "player_2": "7ee8412002913a652b06f39c31474dcf2c18cdf6",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/892e8a18e12cf90ae643026b13b23d3997b391c8",
+              "rot": 0,
+              "scale": 1,
+              "dx": 0,
+              "dy": 0
+            }
+          ],
+          "score_1": 1069419180,
+          "score_2": 586112920,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 1069419180,
+          "score_24": 586112920,
+          "away_points": 1,
+          "home_points": 2
+        },
+        {
+          "n": 4,
+          "machine": "Jackbot",
+          "player_1": "691e12eb96419ef5ed3c7733152c4097c590cdec",
+          "player_2": "8793071958c4f731d401b75239d8e5171f6b9464",
+          "photos": [
+            {
+              "uploaded_by": "691e12eb96419ef5ed3c7733152c4097c590cdec",
+              "url": "/pics/129fab45850061d4fd9f55020f9c51cc24437ab9",
+              "rot": 90,
+              "scale": 1.875649701257658,
+              "dx": -1,
+              "dy": -234
+            }
+          ],
+          "score_1": 803083190,
+          "score_2": 355553960,
+          "done": true,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 803083190,
+          "score_24": 355553960,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 5,
+          "machine": "IronMan",
+          "player_1": "12c97fbce170d8210570b5f669c1030961f21322",
+          "player_2": "ace784f327f66c086f5246dbb25e7f2eed9a0c68",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/fff185c4d83eed63eb9cc1074594d9555988a6a9",
+              "rot": 0,
+              "scale": 1.6704073148592524,
+              "dx": -50,
+              "dy": -62
+            }
+          ],
+          "score_1": 19288060,
+          "score_2": 12474330,
+          "points_1": 2,
+          "points_2": 1,
+          "points_13": 2,
+          "points_24": 1,
+          "score_13": 19288060,
+          "score_24": 12474330,
+          "away_points": 1,
+          "home_points": 2
+        },
+        {
+          "n": 6,
+          "machine": "TSPP",
+          "player_1": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+          "player_2": "14ca720acc6a110a0aede4417bdccbd293700d49",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+              "url": "/pics/a2c054c1133ec94042b2ee182d123a7b999c4b3e",
+              "rot": 0,
+              "scale": 1.2263001268050786,
+              "dx": -155,
+              "dy": -123
+            }
+          ],
+          "score_1": 23031640,
+          "score_2": 33350590,
+          "points_1": 1,
+          "points_2": 2,
+          "points_13": 1,
+          "points_24": 2,
+          "score_13": 23031640,
+          "score_24": 33350590,
+          "away_points": 2,
+          "home_points": 1
+        },
+        {
+          "n": 7,
+          "machine": "TAF",
+          "player_1": "d4739811f0187b58e528e37ffde835f1e3a2da22",
+          "player_2": "84b5c8062274c3952b6113647c5fab24ae74835e",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "d4739811f0187b58e528e37ffde835f1e3a2da22",
+              "url": "/pics/65d28464cd886121c7ea67b3024d37f49d6824bd",
+              "rot": 0,
+              "scale": 1,
+              "dx": 0,
+              "dy": 0
+            }
+          ],
+          "score_1": 330181130,
+          "score_2": 55318890,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 330181130,
+          "score_24": 55318890,
+          "away_points": 0,
+          "home_points": 3
+        }
+      ],
+      "done": true,
+      "left_confirmed": {
+        "by": "Bobby Conover",
+        "at": 1555392176719
+      },
+      "right_confirmed": {
+        "by": "Hayden McCabe",
+        "at": 1555392191282
+      }
+    },
+    {
+      "n": 3,
+      "games": [
+        {
+          "n": 1,
+          "machine": "Skindy",
+          "player_1": "84b5c8062274c3952b6113647c5fab24ae74835e",
+          "player_2": "12c97fbce170d8210570b5f669c1030961f21322",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/73ca296dc0fc9025416839b699d2271b9d7a35f7",
+              "rot": 0,
+              "scale": 1.6289609826075087,
+              "dx": 0,
+              "dy": -33
+            }
+          ],
+          "score_1": 13735670,
+          "score_2": 48770720,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 13735670,
+          "score_24": 48770720,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 2,
+          "machine": "SS",
+          "player_1": "79d3ec27db9b3c49e0ef71c6253baa94ac456a41",
+          "player_2": "db83a4ca4473a81dba80c8ba2e373372a9170040",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/d66798383eaa7fc6671bc795a4fa3d08d50ab2be",
+              "rot": 0,
+              "scale": 1.353812832544993,
+              "dx": -106,
+              "dy": -66
+            }
+          ],
+          "score_1": 2861238,
+          "score_2": 9189170,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 2861238,
+          "score_24": 9189170,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 3,
+          "machine": "Indy500",
+          "player_1": "c903d57c25e79232fa83c3bb417fa062404ed063",
+          "player_2": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+          "done": true,
+          "score_1": 259835350,
+          "score_2": 621070920,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 259835350,
+          "score_24": 621070920,
+          "away_points": 0,
+          "home_points": 3,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/f15ce7d60668ee9883ee53df1f8141662c317847",
+              "rot": 0,
+              "scale": 1.6553191732940826,
+              "dx": -134,
+              "dy": -93
+            }
+          ]
+        },
+        {
+          "n": 4,
+          "machine": "Jackbot",
+          "player_1": "c33f161f6d9d27d4f01bbbf0b5fce77bea754652",
+          "player_2": "691e12eb96419ef5ed3c7733152c4097c590cdec",
+          "photos": [
+            {
+              "uploaded_by": "691e12eb96419ef5ed3c7733152c4097c590cdec",
+              "url": "/pics/ff85b64d47314e187c3a2d88c1a55f53f0143c53",
+              "rot": 90,
+              "scale": 1.9473560104593308,
+              "dx": 29,
+              "dy": -121
+            }
+          ],
+          "score_1": 763277520,
+          "score_2": 2002844940,
+          "done": true,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 763277520,
+          "score_24": 2002844940,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 5,
+          "machine": "TAF",
+          "player_1": "01d5567496c6c4663cb317b4772e1f0b1598e670",
+          "player_2": "231c4e4bb35f8545b18c8a82bebc323ce29e0958",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "d4739811f0187b58e528e37ffde835f1e3a2da22",
+              "url": "/pics/52325fac75340fe45aab4b5e6e7d2191dc8b9be0",
+              "rot": 0,
+              "scale": 1,
+              "dx": 0,
+              "dy": 0
+            }
+          ],
+          "score_1": 45203700,
+          "score_2": 171959520,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 45203700,
+          "score_24": 171959520,
+          "away_points": 0,
+          "home_points": 3
+        },
+        {
+          "n": 6,
+          "machine": "WOF",
+          "player_1": "98326b585dcf615cb04751c475b9c754240a84bd",
+          "player_2": "e288cd121de02bcd02c337cb18c33ff2c7841ce9",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "98326b585dcf615cb04751c475b9c754240a84bd",
+              "url": "/pics/8cbc56ccdb0b7571e11ba7698471672daa1a9e54",
+              "rot": 0,
+              "scale": 2.3190043577734096,
+              "dx": -327,
+              "dy": -222
+            }
+          ],
+          "score_1": 33400320,
+          "score_2": 10926140,
+          "points_1": 3,
+          "points_2": 0,
+          "points_13": 3,
+          "points_24": 0,
+          "score_13": 33400320,
+          "score_24": 10926140,
+          "away_points": 3,
+          "home_points": 0
+        },
+        {
+          "n": 7,
+          "machine": "SternTrek",
+          "player_1": "ace784f327f66c086f5246dbb25e7f2eed9a0c68",
+          "player_2": "65ff360c0605503d17618e5e55d243080beaead2",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+              "url": "/pics/6a8422fb908489542e077c036a05bcccd4ae2a8e",
+              "rot": 0,
+              "scale": 1.7401255509632487,
+              "dx": -297,
+              "dy": -150
+            }
+          ],
+          "score_1": 23196880,
+          "score_2": 241586550,
+          "points_1": 0,
+          "points_2": 3,
+          "points_13": 0,
+          "points_24": 3,
+          "score_13": 23196880,
+          "score_24": 241586550,
+          "away_points": 0,
+          "home_points": 3
+        }
+      ],
+      "done": true,
+      "right_confirmed": {
+        "by": "Bobby Conover",
+        "at": 1555394307257
+      },
+      "left_confirmed": {
+        "by": "Hayden McCabe",
+        "at": 1555394312210
+      }
+    },
+    {
+      "n": 4,
+      "games": [
+        {
+          "n": 1,
+          "machine": "Indy500",
+          "player_1": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+          "player_3": "bbab153f8fe19f91ebae16c1a343a982d77d74f1",
+          "player_2": "c903d57c25e79232fa83c3bb417fa062404ed063",
+          "player_4": "7ee8412002913a652b06f39c31474dcf2c18cdf6",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "cbb11d151f5b072c446b5544cfffcda81b4849ad",
+              "url": "/pics/89ff1c6bd6894a318925251c203abaf3f13b7b95",
+              "rot": 0,
+              "scale": 1.7223902783641396,
+              "dx": -221,
+              "dy": -151
+            }
+          ],
+          "score_1": 1347693880,
+          "score_2": 376066210,
+          "score_3": 901281428,
+          "score_4": 45236990,
+          "points_1": 2.5,
+          "points_2": 0,
+          "points_3": 2.5,
+          "points_4": 0,
+          "score_13": 2248975308,
+          "score_24": 421303200,
+          "points_13": 5,
+          "points_24": 0,
+          "away_points": 0,
+          "home_points": 5
+        },
+        {
+          "n": 2,
+          "machine": "SS",
+          "player_1": "db83a4ca4473a81dba80c8ba2e373372a9170040",
+          "player_3": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+          "player_2": "8793071958c4f731d401b75239d8e5171f6b9464",
+          "player_4": "c33f161f6d9d27d4f01bbbf0b5fce77bea754652",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "096de1fd005e1a9c67479cdf593678ca01bb7df9",
+              "url": "/pics/2c6548226cb4ac822dbca387ab5681491a0412d4",
+              "rot": 0,
+              "scale": 1.3723280724111016,
+              "dx": -171,
+              "dy": -176
+            }
+          ],
+          "score_1": 4009830,
+          "score_2": 8600020,
+          "score_3": 9703150,
+          "score_4": 3576020,
+          "points_1": 1.5,
+          "points_2": 1,
+          "points_3": 2.5,
+          "points_4": 0,
+          "score_13": 13712980,
+          "score_24": 12176040,
+          "points_13": 4,
+          "points_24": 1,
+          "away_points": 1,
+          "home_points": 4
+        },
+        {
+          "n": 3,
+          "machine": "IronMan",
+          "player_1": "231c4e4bb35f8545b18c8a82bebc323ce29e0958",
+          "player_3": "d4739811f0187b58e528e37ffde835f1e3a2da22",
+          "player_2": "79d3ec27db9b3c49e0ef71c6253baa94ac456a41",
+          "player_4": "ace784f327f66c086f5246dbb25e7f2eed9a0c68",
+          "photos": [
+            {
+              "uploaded_by": "ace784f327f66c086f5246dbb25e7f2eed9a0c68",
+              "url": "/pics/b13382f248ce6442a48f950a940f8c1ab3c31b4a",
+              "rot": 0,
+              "scale": 1,
+              "dx": 94,
+              "dy": -39
+            }
+          ],
+          "score_1": 27329890,
+          "score_2": 7934580,
+          "score_3": 4962520,
+          "score_4": 6172780,
+          "done": true,
+          "points_1": 2.5,
+          "points_2": 1,
+          "points_3": 0.5,
+          "points_4": 1,
+          "score_13": 32292410,
+          "score_24": 14107360,
+          "points_13": 3,
+          "points_24": 2,
+          "away_points": 2,
+          "home_points": 3
+        },
+        {
+          "n": 4,
+          "machine": "SternTrek",
+          "player_1": "e288cd121de02bcd02c337cb18c33ff2c7841ce9",
+          "player_3": "65ff360c0605503d17618e5e55d243080beaead2",
+          "player_2": "14ca720acc6a110a0aede4417bdccbd293700d49",
+          "player_4": "01d5567496c6c4663cb317b4772e1f0b1598e670",
+          "done": true,
+          "photos": [
+            {
+              "uploaded_by": "65ff360c0605503d17618e5e55d243080beaead2",
+              "url": "/pics/c2c01fa089df1d64f85ed409c73395b82a957b27",
+              "rot": 0,
+              "scale": 1.458872844105315,
+              "dx": -210,
+              "dy": -67
+            }
+          ],
+          "score_1": 19885430,
+          "score_2": 19494020,
+          "score_3": 46670750,
+          "score_4": 29103000,
+          "points_1": 1.5,
+          "points_2": 0,
+          "points_3": 2.5,
+          "points_4": 1,
+          "score_13": 66556180,
+          "score_24": 48597020,
+          "points_13": 4,
+          "points_24": 1,
+          "away_points": 1,
+          "home_points": 4
+        }
+      ],
+      "done": true,
+      "left_confirmed": {
+        "by": "Bobby Conover",
+        "at": 1555402199066
+      }
+    }
+  ],
+  "players": []
+}
