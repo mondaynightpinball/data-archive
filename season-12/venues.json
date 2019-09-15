@@ -21,7 +21,6 @@
   "OLF": {
     "name": "Olaf's",
     "machines": [
-      "BOP",
       "BOP2",
       "BSD",
       "BigBrave",
@@ -33,7 +32,8 @@
       "SternTrek",
       "TWD",
       "TZ",
-      "SternWars"
+      "SternWars",
+      "BOP"
     ],
     "key": "OLF",
     "address": "6301 24th Ave NW, Seattle",
@@ -45,19 +45,20 @@
       "BM66",
       "Jackbox",
       "SC",
-      "SS",
       "TAF",
       "TOM",
-      "Fathom",
       "SternWars",
       "POTCJJ",
       "IronMaiden",
-      "TNA",
       "TZ",
       "DP",
-      "Beatles",
-      "BK2K",
-      "Munsters"
+      "Munsters",
+      "AliceCooper",
+      "BKSoR",
+      "Fireball2",
+      "LW",
+      "TargetAlpha",
+      "Wonka"
     ],
     "key": "SHR",
     "address": "2222 2nd Ave, Seattle",
@@ -109,17 +110,17 @@
       "Nitro",
       "SurfChamp",
       "TAF",
-      "BM66",
       "Whitewater",
       "BadCats",
       "IronMaiden",
       "Jackbot",
       "Dragonfist",
       "Guardians",
-      "JD",
-      "GameShow",
       "MB",
-      "Munsters"
+      "Munsters",
+      "Wonka",
+      "BOP",
+      "BlackRose"
     ],
     "key": "AAB",
     "address": "315 N 36th St #2b, Seattle",
@@ -179,19 +180,16 @@
       "CV",
       "ChampPub",
       "Earthshaker",
-      "FH",
       "GLizard",
       "GOT",
       "POTO",
       "Robocop",
-      "RollerCoaster",
       "STTNG",
       "TAF",
       "TWD",
       "TZ",
       "Troopers",
       "WCS",
-      "RBION",
       "DialedIn",
       "8Ball",
       "BDK",
@@ -199,9 +197,11 @@
       "Tron",
       "IronMaiden",
       "LOTR",
-      "TNA",
       "Torpedo",
-      "Ghost"
+      "Ghost",
+      "BKSoR",
+      "Munsters",
+      "Wonka"
     ],
     "key": "FFD",
     "address": "6012 12th Ave S, Seattle",
@@ -222,7 +222,6 @@
       "TOM",
       "TOTAN",
       "TZ",
-      "Indy",
       "SternWars",
       "TF",
       "Pinbot",
@@ -234,10 +233,11 @@
       "DP",
       "IronMaiden",
       "MarioMushroom",
-      "Beatles",
       "Cyclone",
-      "Munsters",
-      "BKSoR"
+      "BKSoR",
+      "Wonka",
+      "SternPark",
+      "AliceCooper"
     ],
     "key": "8BT",
     "address": "916 S. 3rd st, Renton"
@@ -262,10 +262,7 @@
     "machines": [
       "8Ball",
       "Whitewater",
-      "SternWars",
-      "BM66",
       "TFTC",
-      "TAF",
       "KISS",
       "Ghost",
       "MM",
@@ -279,7 +276,7 @@
       "TZ",
       "GOT",
       "MB",
-      "Paragon"
+      "Getaway"
     ],
     "key": "ANC",
     "address": "23303 Highway 99, Suite A, Edmonds"
@@ -361,9 +358,11 @@
       "RFM",
       "Whitewater",
       "Congo",
-      "BKSoR",
       "Shadow",
-      "ID"
+      "ID",
+      "BSD",
+      "ChampPub",
+      "Scorpion"
     ]
   },
   "RAY": {
@@ -392,15 +391,12 @@
       "Future Spa",
       "HardBody",
       "Hotdoggin'",
-      "Indy500",
       "Metallica",
       "MB",
-      "NGG",
       "Paragon",
       "TWD",
       "MM",
       "FT",
-      "WCS",
       "TAF",
       "SpaceInvaders",
       "GOT",
@@ -416,7 +412,10 @@
       "Sopranos",
       "BSD",
       "SternTrek",
-      "LOTR"
+      "LOTR",
+      "SternPark",
+      "BKSoR",
+      "POTC"
     ]
   },
   "VID": {
@@ -448,14 +447,15 @@
     "key": "FCH",
     "name": "Full Tilt Capitol Hill",
     "machines": [
-      "TWD",
-      "BK2K",
-      "Ghost",
       "Tron",
       "FH",
-      "Metallica",
-      "Skindy",
-      "WhoDunnit"
+      "WhoDunnit",
+      "BM66",
+      "GOT",
+      "RFM",
+      "RollerGames",
+      "TSPP",
+      "StarWarsE1"
     ]
   },
   "CDX": {
@@ -486,28 +486,25 @@
       "Jackbot",
       "TAF",
       "Transporter",
-      "DM",
       "DollyParton",
-      "HighRollerCasino",
-      "NR",
-      "Popeye",
       "RS",
-      "Skindy",
-      "Guardians",
-      "Elvira",
-      "StarTrip",
       "Mousin",
-      "GameShow",
-      "Shadow",
-      "StarTrek",
-      "Scorpion",
       "FT",
       "SternTrek",
-      "BKSoR",
-      "ACDC",
       "Goldeneye",
-      "Congo",
-      "F-14"
+      "AFM",
+      "GameShow",
+      "Breakshot",
+      "Cheetah",
+      "DP",
+      "DH",
+      "DrWho",
+      "EBD",
+      "MB",
+      "NBAFB",
+      "NoFear",
+      "SpaceShuttle",
+      "Taxi"
     ]
   },
   "COP": {
@@ -530,7 +527,6 @@
     "name": "Getaway Lounge",
     "machines": [
       "AFM",
-      "EBD",
       "Elvis",
       "GNR",
       "Getaway",
@@ -538,7 +534,8 @@
       "PlayboyStern",
       "TAF",
       "ACDC",
-      "Aerosmith"
+      "Aerosmith",
+      "24"
     ]
   },
   "KRA": {
