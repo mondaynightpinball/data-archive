@@ -6,23 +6,23 @@
   "round": 4,
   "create_at": 1580740985283,
   "date": "02/03/2020",
-  "state": "playing",
+  "state": "complete",
   "venue": {
     "key": "OLF",
     "name": "Olaf's",
     "machines": [
       "BOP2",
+      "Genie",
+      "BSD",
       "BlackHole",
       "DrWho",
       "GOT",
-      "Genie",
-      "BSD",
-      "SternTrek",
-      "TWD",
-      "TZ",
       "SternWars",
       "ElviraHouseOfHorrors",
-      "RollerGames"
+      "RollerGames",
+      "SternTrek",
+      "TWD",
+      "TZ"
     ]
   },
   "away": {
@@ -850,6 +850,10 @@
       "left_confirmed": {
         "by": "Claire Burke",
         "at": 1580802005151
+      },
+      "right_confirmed": {
+        "by": "Alex Skinner",
+        "at": 1580837797436
       }
     }
   ],
